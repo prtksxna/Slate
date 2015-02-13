@@ -4,15 +4,15 @@
 			"Huuchin"
 		]
 	},
-	"vector-action-addsection": "Төриг немх",
-	"vector-action-delete": "Һарһх",
-	"vector-action-move": "Көндәх",
-	"vector-action-protect": "Харсх",
-	"vector-action-undelete": "Һарһх биш",
-	"vector-action-unprotect": "Харсх биш",
-	"vector-view-create": "Бүтәх",
-	"vector-view-edit": "Чиклх",
-	"vector-view-history": "Тууҗин хәләвр",
-	"vector-view-view": "Умшлһн",
-	"vector-view-viewsource": "Темдгллһнә хәләвр"
+	"slate-action-addsection": "Төриг немх",
+	"slate-action-delete": "Һарһх",
+	"slate-action-move": "Көндәх",
+	"slate-action-protect": "Харсх",
+	"slate-action-undelete": "Һарһх биш",
+	"slate-action-unprotect": "Харсх биш",
+	"slate-view-create": "Бүтәх",
+	"slate-view-edit": "Чиклх",
+	"slate-view-history": "Тууҗин хәләвр",
+	"slate-view-view": "Умшлһн",
+	"slate-view-viewsource": "Темдгллһнә хәләвр"
 }

@@ -4,15 +4,15 @@
 			"Ibrahim"
 		]
 	},
-	"vector-action-addsection": "Иловаи унвон",
-	"vector-action-delete": "Ҳазф",
-	"vector-action-move": "Кӯчонидан",
-	"vector-action-protect": "Муҳофизат",
-	"vector-action-undelete": "Эҳё",
-	"vector-action-unprotect": "Тағйири муҳофизат",
-	"vector-view-create": "Эҷод",
-	"vector-view-edit": "Вироиш",
-	"vector-view-history": "Намоиши таърих",
-	"vector-view-view": "Хондан",
-	"vector-view-viewsource": "Намоиши манбаъ"
+	"slate-action-addsection": "Иловаи унвон",
+	"slate-action-delete": "Ҳазф",
+	"slate-action-move": "Кӯчонидан",
+	"slate-action-protect": "Муҳофизат",
+	"slate-action-undelete": "Эҳё",
+	"slate-action-unprotect": "Тағйири муҳофизат",
+	"slate-view-create": "Эҷод",
+	"slate-view-edit": "Вироиш",
+	"slate-view-history": "Намоиши таърих",
+	"slate-view-view": "Хондан",
+	"slate-view-viewsource": "Намоиши манбаъ"
 }

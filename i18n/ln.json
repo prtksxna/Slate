@@ -5,15 +5,15 @@
 			"Moyogo"
 		]
 	},
-	"vector-action-addsection": "Kobakisa mpɔ̂",
-	"vector-action-delete": "Kolímwisa",
-	"vector-action-move": "Kobóngola nkómbó",
-	"vector-action-protect": "Kobátela",
-	"vector-action-undelete": "Kolímwisa tɛ̂",
-	"vector-action-unprotect": " Kobátela tɛ̂",
-	"vector-view-create": "Kokela",
-	"vector-view-edit": "Kobɔngisa",
-	"vector-view-history": "Komɔ́nisa mokóló",
-	"vector-view-view": "Kotánga",
-	"vector-view-viewsource": "Komɔ́nisa mosólo"
+	"slate-action-addsection": "Kobakisa mpɔ̂",
+	"slate-action-delete": "Kolímwisa",
+	"slate-action-move": "Kobóngola nkómbó",
+	"slate-action-protect": "Kobátela",
+	"slate-action-undelete": "Kolímwisa tɛ̂",
+	"slate-action-unprotect": " Kobátela tɛ̂",
+	"slate-view-create": "Kokela",
+	"slate-view-edit": "Kobɔngisa",
+	"slate-view-history": "Komɔ́nisa mokóló",
+	"slate-view-view": "Kotánga",
+	"slate-view-viewsource": "Komɔ́nisa mosólo"
 }

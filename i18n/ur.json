@@ -8,16 +8,16 @@
 			"محبوب عالم"
 		]
 	},
-	"vector-action-addsection": "نیا موضوع",
-	"vector-action-delete": "حذف کرو",
-	"vector-action-move": "منتقل کرو",
-	"vector-action-protect": "محفوظ کرو",
-	"vector-action-undelete": "بحال",
-	"vector-action-unprotect": "تحفظ میں تبدیلی",
-	"vector-view-create": "تخلیق",
-	"vector-view-edit": "ترمیم",
-	"vector-view-history": "تاریخ",
-	"vector-view-view": "مطالعہ",
-	"vector-view-viewsource": "مسودہ",
-	"vector-more-actions": "زیادہ"
+	"slate-action-addsection": "نیا موضوع",
+	"slate-action-delete": "حذف کرو",
+	"slate-action-move": "منتقل کرو",
+	"slate-action-protect": "محفوظ کرو",
+	"slate-action-undelete": "بحال",
+	"slate-action-unprotect": "تحفظ میں تبدیلی",
+	"slate-view-create": "تخلیق",
+	"slate-view-edit": "ترمیم",
+	"slate-view-history": "تاریخ",
+	"slate-view-view": "مطالعہ",
+	"slate-view-viewsource": "مسودہ",
+	"slate-more-actions": "زیادہ"
 }

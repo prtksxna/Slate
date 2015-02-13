@@ -4,7 +4,7 @@
 			"Malafaya"
 		]
 	},
-	"vector-action-delete": "Ekarta",
-	"vector-view-edit": "Modifika",
-	"vector-view-view": "Lekte"
+	"slate-action-delete": "Ekarta",
+	"slate-view-edit": "Modifika",
+	"slate-view-view": "Lekte"
 }

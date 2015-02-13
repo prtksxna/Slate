@@ -4,15 +4,15 @@
 			"Jagwar"
 		]
 	},
-	"vector-action-addsection": "Hanampy lohahevitra",
-	"vector-action-delete": "Fafana",
-	"vector-action-move": "Hanolo anarana",
-	"vector-action-protect": "Arovy",
-	"vector-action-undelete": "Avereno",
-	"vector-action-unprotect": "Hanala ny fiarovana",
-	"vector-view-create": "Foronona",
-	"vector-view-edit": "Hanova",
-	"vector-view-history": "Hijery ny tantara",
-	"vector-view-view": "Hamaky",
-	"vector-view-viewsource": "Hijery fango"
+	"slate-action-addsection": "Hanampy lohahevitra",
+	"slate-action-delete": "Fafana",
+	"slate-action-move": "Hanolo anarana",
+	"slate-action-protect": "Arovy",
+	"slate-action-undelete": "Avereno",
+	"slate-action-unprotect": "Hanala ny fiarovana",
+	"slate-view-create": "Foronona",
+	"slate-view-edit": "Hanova",
+	"slate-view-history": "Hijery ny tantara",
+	"slate-view-view": "Hamaky",
+	"slate-view-viewsource": "Hijery fango"
 }

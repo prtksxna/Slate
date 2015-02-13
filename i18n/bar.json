@@ -5,15 +5,15 @@
 			"Mucalexx"
 		]
 	},
-	"vector-action-addsection": "An Obschnitt dazua doa",
-	"vector-action-delete": "Leschn",
-	"vector-action-move": "Vaschiabm",
-	"vector-action-protect": "Schitzn",
-	"vector-action-undelete": "Wiederherstön",
-	"vector-action-unprotect": "freigeem",
-	"vector-view-create": "Aufbaun",
-	"vector-view-edit": "Werkln",
-	"vector-view-history": "Gschicht oschaugn",
-	"vector-view-view": "Lesn",
-	"vector-view-viewsource": "Quejtext ozoagn"
+	"slate-action-addsection": "An Obschnitt dazua doa",
+	"slate-action-delete": "Leschn",
+	"slate-action-move": "Vaschiabm",
+	"slate-action-protect": "Schitzn",
+	"slate-action-undelete": "Wiederherstön",
+	"slate-action-unprotect": "freigeem",
+	"slate-view-create": "Aufbaun",
+	"slate-view-edit": "Werkln",
+	"slate-view-history": "Gschicht oschaugn",
+	"slate-view-view": "Lesn",
+	"slate-view-viewsource": "Quejtext ozoagn"
 }

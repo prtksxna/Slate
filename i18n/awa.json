@@ -4,16 +4,16 @@
 			"1AnuraagPandey"
 		]
 	},
-	"vector-action-addsection": "शिर्षक जोडा जाय",
-	"vector-action-delete": "मेटावा जाय",
-	"vector-action-move": "घुस्कावा जाय",
-	"vector-action-protect": "सुरक्षित करा जाय",
-	"vector-action-undelete": "हटाइब वापस लिहा जाय",
-	"vector-action-unprotect": "सुरक्षा परिवर्तन करा जाय",
-	"vector-view-create": "बनावा जाय",
-	"vector-view-edit": "सम्पादन",
-	"vector-view-history": "इतिहास देखा जाय",
-	"vector-view-view": "पढा जाय",
-	"vector-view-viewsource": "स्रोत देखा जाय",
-	"vector-more-actions": "अउर"
+	"slate-action-addsection": "शिर्षक जोडा जाय",
+	"slate-action-delete": "मेटावा जाय",
+	"slate-action-move": "घुस्कावा जाय",
+	"slate-action-protect": "सुरक्षित करा जाय",
+	"slate-action-undelete": "हटाइब वापस लिहा जाय",
+	"slate-action-unprotect": "सुरक्षा परिवर्तन करा जाय",
+	"slate-view-create": "बनावा जाय",
+	"slate-view-edit": "सम्पादन",
+	"slate-view-history": "इतिहास देखा जाय",
+	"slate-view-view": "पढा जाय",
+	"slate-view-viewsource": "स्रोत देखा जाय",
+	"slate-more-actions": "अउर"
 }

@@ -5,16 +5,16 @@
 			"Sborsody"
 		]
 	},
-	"skinname-vector": "Вектор",
-	"vector-action-addsection": "Кол сөстү немелээри",
-	"vector-action-delete": "Ырадыры",
-	"vector-action-move": "Шимчээри",
-	"vector-action-protect": "Камгалаары",
-	"vector-action-undelete": "Эгидер",
-	"vector-action-unprotect": "Камгалалды өскертири",
-	"vector-view-create": "Чаяары",
-	"vector-view-edit": "Эдер",
-	"vector-view-history": "Төөгүнү көөрү",
-	"vector-view-view": "Номчуур",
-	"vector-view-viewsource": "Дөзү бижиин көөрү"
+	"skinname-slate": "Вектор",
+	"slate-action-addsection": "Кол сөстү немелээри",
+	"slate-action-delete": "Ырадыры",
+	"slate-action-move": "Шимчээри",
+	"slate-action-protect": "Камгалаары",
+	"slate-action-undelete": "Эгидер",
+	"slate-action-unprotect": "Камгалалды өскертири",
+	"slate-view-create": "Чаяары",
+	"slate-view-edit": "Эдер",
+	"slate-view-history": "Төөгүнү көөрү",
+	"slate-view-view": "Номчуур",
+	"slate-view-viewsource": "Дөзү бижиин көөрү"
 }

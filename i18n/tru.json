@@ -4,13 +4,13 @@
 			"Ariyo"
 		]
 	},
-	"vector-action-addsection": "Maḥat Fusoqo ḥaṭo",
-	"vector-action-delete": "Slag",
-	"vector-action-move": "Mtaxar",
-	"vector-action-protect": "Mastar",
-	"vector-view-create": "Xlaq",
-	"vector-view-edit": "Mşaḥlaf",
-	"vector-view-history": "Maktabzabno",
-	"vector-view-view": "Qray",
-	"vector-view-viewsource": "Maḥway li aMabu³e."
+	"slate-action-addsection": "Maḥat Fusoqo ḥaṭo",
+	"slate-action-delete": "Slag",
+	"slate-action-move": "Mtaxar",
+	"slate-action-protect": "Mastar",
+	"slate-view-create": "Xlaq",
+	"slate-view-edit": "Mşaḥlaf",
+	"slate-view-history": "Maktabzabno",
+	"slate-view-view": "Qray",
+	"slate-view-viewsource": "Maḥway li aMabu³e."
 }

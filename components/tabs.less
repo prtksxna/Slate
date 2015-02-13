@@ -3,12 +3,12 @@ Styling for namespace tabs (page, discussion) and views (read, edit, view histor
 */
 
 /* Navigation Labels */
-div.vectorTabs h3 {
+div.slateTabs h3 {
 	display: none;
 }
 
 /* Namespaces and Views */
-div.vectorTabs {
+div.slateTabs {
 	/* @noflip */
 	float: left;
 	height: 2.5em;
@@ -114,7 +114,7 @@ div.vectorTabs {
 }
 
 /* Variants and Actions */
-div.vectorMenu {
+div.slateMenu {
 	/* @noflip */
 	direction: ltr;
 	/* @noflip */
@@ -123,12 +123,12 @@ div.vectorMenu {
 	position: relative;
 }
 
-body.rtl div.vectorMenu {
+body.rtl div.slateMenu {
 	/* @noflip */
 	direction: rtl;
 }
 
-div#mw-head div.vectorMenu h3 {
+div#mw-head div.slateMenu h3 {
 	/* @noflip */
 	float: left;
 	.background-image('images/tab-break.png');
@@ -137,12 +137,12 @@ div#mw-head div.vectorMenu h3 {
 	font-size: 1em;
 	height: 2.5em;
 	// This effectively moves the "background border" outside of the element to act like a real
-	// border. It is necessary for the dropdown (div.vectorMenu div.menu) to align well.
+	// border. It is necessary for the dropdown (div.slateMenu div.menu) to align well.
 	padding-right: 1px;
 	margin-right: -1px;
 }
 
-div.vectorMenu h3 span {
+div.slateMenu h3 span {
 	display: block;
 	font-size: 0.8em;
 	padding-left: 0.7em;
@@ -152,7 +152,7 @@ div.vectorMenu h3 span {
 	color: @menu-main-heading-color;
 }
 
-div.vectorMenu h3 a {
+div.slateMenu h3 a {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -164,15 +164,15 @@ div.vectorMenu h3 a {
 	.transition(background-position 250ms);
 }
 
-div.vectorMenu.menuForceShow h3 a {
+div.slateMenu.menuForceShow h3 a {
 	background-position: 100% 100%;
 }
 
-div.vectorMenuFocus h3 a {
+div.slateMenuFocus h3 a {
 	.background-image-svg('images/arrow-down-focus-icon.svg', 'images/arrow-down-focus-icon.png');
 }
 
-div.vectorMenu div.menu {
+div.slateMenu div.menu {
 	// Match the width of the dropdown "heading" (the tab)
 	min-width: 100%;
 	position: absolute;
@@ -187,12 +187,12 @@ div.vectorMenu div.menu {
 }
 
 /* Enable forcing showing of the menu for accessibility */
-div.vectorMenu:hover div.menu,
-div.vectorMenu.menuForceShow div.menu {
+div.slateMenu:hover div.menu,
+div.slateMenu.menuForceShow div.menu {
 	display: block;
 }
 
-div.vectorMenu ul {
+div.slateMenu ul {
 	list-style-type: none;
 	list-style-image: none;
 	padding: 0;
@@ -201,19 +201,19 @@ div.vectorMenu ul {
 }
 
 /* Fixes old versions of FireFox */
-div.vectorMenu ul,
+div.slateMenu ul,
 x:-moz-any-link {
 	min-width: 5em;
 }
 
 /* Returns things back to normal in modern versions of FireFox */
-div.vectorMenu ul,
+div.slateMenu ul,
 x:-moz-any-link,
 x:default {
 	min-width: 0;
 }
 
-div.vectorMenu li {
+div.slateMenu li {
 	padding: 0;
 	margin: 0;
 	text-align: left;
@@ -221,7 +221,7 @@ div.vectorMenu li {
 }
 
 /* OVERRIDDEN BY COMPLIANT BROWSERS */
-div.vectorMenu li a {
+div.slateMenu li a {
 	display: inline-block;
 	padding: 0.5em;
 	white-space: nowrap;
@@ -231,12 +231,12 @@ div.vectorMenu li a {
 }
 
 /* IGNORED BY IE6 */
-div.vectorMenu li > a {
+div.slateMenu li > a {
 	display: block;
 }
 
-div.vectorMenu li.selected a,
-div.vectorMenu li.selected a:visited {
+div.slateMenu li.selected a,
+div.slateMenu li.selected a:visited {
 	color: #333;
 	text-decoration: none;
 }

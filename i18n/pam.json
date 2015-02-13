@@ -5,15 +5,15 @@
 			"Val2397"
 		]
 	},
-	"vector-action-addsection": "Dagdagan ing pisasabian",
-	"vector-action-delete": "Buran",
-	"vector-action-move": "Iyalis",
-	"vector-action-protect": "Protectan/kambilan",
-	"vector-action-undelete": "Isubli/iurung ya pangabura",
-	"vector-action-unprotect": "Idayu ya panga-protecta",
-	"vector-view-create": "Maglalang",
-	"vector-view-edit": "Alilan",
-	"vector-view-history": "Lawen ya ing amlat",
-	"vector-view-view": "Basan",
-	"vector-view-viewsource": "Lawen ya ing pikuanan"
+	"slate-action-addsection": "Dagdagan ing pisasabian",
+	"slate-action-delete": "Buran",
+	"slate-action-move": "Iyalis",
+	"slate-action-protect": "Protectan/kambilan",
+	"slate-action-undelete": "Isubli/iurung ya pangabura",
+	"slate-action-unprotect": "Idayu ya panga-protecta",
+	"slate-view-create": "Maglalang",
+	"slate-view-edit": "Alilan",
+	"slate-view-history": "Lawen ya ing amlat",
+	"slate-view-view": "Basan",
+	"slate-view-viewsource": "Lawen ya ing pikuanan"
 }

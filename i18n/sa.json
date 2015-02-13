@@ -5,15 +5,15 @@
 			"Shubha"
 		]
 	},
-	"vector-action-addsection": "विषयः योज्यताम्",
-	"vector-action-delete": "अपाक्रियताम्",
-	"vector-action-move": "शीर्षकं परिवर्त्यताम्",
-	"vector-action-protect": "संरक्ष्यताम्",
-	"vector-action-undelete": "नापाकृतं",
-	"vector-action-unprotect": "संरक्षणं परिवर्तयतु",
-	"vector-view-create": "सृज्यताम्",
-	"vector-view-edit": "सम्पाद्यताम्",
-	"vector-view-history": "इतिहासः दृश्यताम्",
-	"vector-view-view": "पठ्यताम्",
-	"vector-view-viewsource": "स्रोतः दृश्यताम्"
+	"slate-action-addsection": "विषयः योज्यताम्",
+	"slate-action-delete": "अपाक्रियताम्",
+	"slate-action-move": "शीर्षकं परिवर्त्यताम्",
+	"slate-action-protect": "संरक्ष्यताम्",
+	"slate-action-undelete": "नापाकृतं",
+	"slate-action-unprotect": "संरक्षणं परिवर्तयतु",
+	"slate-view-create": "सृज्यताम्",
+	"slate-view-edit": "सम्पाद्यताम्",
+	"slate-view-history": "इतिहासः दृश्यताम्",
+	"slate-view-view": "पठ्यताम्",
+	"slate-view-viewsource": "स्रोतः दृश्यताम्"
 }

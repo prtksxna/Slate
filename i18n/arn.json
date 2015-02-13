@@ -5,15 +5,15 @@
 			"Fiestoforo"
 		]
 	},
-	"vector-action-addsection": "Püñamtun dungu",
-	"vector-action-delete": "Liftun",
-	"vector-action-move": "Wiñamün",
-	"vector-action-protect": "Nürüfkünun",
-	"vector-action-undelete": "Wüñoñamümün",
-	"vector-action-unprotect": "Kalekünun Nürüfkünun",
-	"vector-view-create": "Dewman",
-	"vector-view-edit": "Kümeelün",
-	"vector-view-history": "Pengelün rupañmael",
-	"vector-view-view": "Chillkatun",
-	"vector-view-viewsource": "Kimam chew küpan chi wirin"
+	"slate-action-addsection": "Püñamtun dungu",
+	"slate-action-delete": "Liftun",
+	"slate-action-move": "Wiñamün",
+	"slate-action-protect": "Nürüfkünun",
+	"slate-action-undelete": "Wüñoñamümün",
+	"slate-action-unprotect": "Kalekünun Nürüfkünun",
+	"slate-view-create": "Dewman",
+	"slate-view-edit": "Kümeelün",
+	"slate-view-history": "Pengelün rupañmael",
+	"slate-view-view": "Chillkatun",
+	"slate-view-viewsource": "Kimam chew küpan chi wirin"
 }

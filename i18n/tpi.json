@@ -5,12 +5,12 @@
 			"Wantok"
 		]
 	},
-	"vector-action-delete": "Rausim",
-	"vector-action-move": "Surikim",
-	"vector-action-protect": "Tambuim",
-	"vector-view-create": "Kirapim",
-	"vector-view-edit": "Senisim",
-	"vector-view-history": "Ol senis",
-	"vector-view-view": "Rit",
-	"vector-view-viewsource": "Lukim as tok"
+	"slate-action-delete": "Rausim",
+	"slate-action-move": "Surikim",
+	"slate-action-protect": "Tambuim",
+	"slate-view-create": "Kirapim",
+	"slate-view-edit": "Senisim",
+	"slate-view-history": "Ol senis",
+	"slate-view-view": "Rit",
+	"slate-view-viewsource": "Lukim as tok"
 }

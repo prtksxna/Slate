@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"vector-action-delete": "ڊاھيو",
-	"vector-action-move": "چوريو",
-	"vector-action-protect": "تحفظيو",
-	"vector-action-unprotect": "اڻتحفظيو",
-	"vector-view-create": "سرجيو",
-	"vector-view-edit": "سنواريو",
-	"vector-view-viewsource": "ڪوڊ ڏسو"
+	"slate-action-delete": "ڊاھيو",
+	"slate-action-move": "چوريو",
+	"slate-action-protect": "تحفظيو",
+	"slate-action-unprotect": "اڻتحفظيو",
+	"slate-view-create": "سرجيو",
+	"slate-view-edit": "سنواريو",
+	"slate-view-viewsource": "ڪوڊ ڏسو"
 }

@@ -5,17 +5,17 @@
 			"GunChleoc"
 		]
 	},
-	"vector-skin-desc": "Tionndadh ùr-nodha de MonoBook le dreach ùr air 's iomadh leasachadh air a sho-chleachdachd",
-	"vector-action-addsection": "Cuir ris cuspair",
-	"vector-action-delete": "Sguab às",
-	"vector-action-move": "Gluais",
-	"vector-action-protect": "Dìon",
-	"vector-action-undelete": "Neo-dhèan an sguabadh às",
-	"vector-action-unprotect": "Atharraich an dìon",
-	"vector-view-create": "Cruthaich",
-	"vector-view-edit": "Deasaich",
-	"vector-view-history": "Seall an eachdraidh",
-	"vector-view-view": "Leugh",
-	"vector-view-viewsource": "Seall an tùs",
-	"vector-more-actions": "Barrachd"
+	"slate-skin-desc": "Tionndadh ùr-nodha de MonoBook le dreach ùr air 's iomadh leasachadh air a sho-chleachdachd",
+	"slate-action-addsection": "Cuir ris cuspair",
+	"slate-action-delete": "Sguab às",
+	"slate-action-move": "Gluais",
+	"slate-action-protect": "Dìon",
+	"slate-action-undelete": "Neo-dhèan an sguabadh às",
+	"slate-action-unprotect": "Atharraich an dìon",
+	"slate-view-create": "Cruthaich",
+	"slate-view-edit": "Deasaich",
+	"slate-view-history": "Seall an eachdraidh",
+	"slate-view-view": "Leugh",
+	"slate-view-viewsource": "Seall an tùs",
+	"slate-more-actions": "Barrachd"
 }

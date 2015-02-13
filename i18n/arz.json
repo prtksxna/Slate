@@ -6,17 +6,17 @@
 			"Ramsis II"
 		]
 	},
-	"vector.css": "/* CSS اللى هنا حتأثر على اليوزرز اللى بيستخدموا واجهة فكتور */",
-	"vector.js": "/* اى جافاسكريبت هنا حتتحمل لكل يوزر بيستخدم واجهة فكتور */",
-	"vector-action-addsection": "ضيف موضوع",
-	"vector-action-delete": "مسح",
-	"vector-action-move": "نقل",
-	"vector-action-protect": "حمايه",
-	"vector-action-undelete": "الغى المسح",
-	"vector-action-unprotect": "غير الحمايه",
-	"vector-view-create": "اعمل",
-	"vector-view-edit": "تعديل",
-	"vector-view-history": "استعراض التاريخ",
-	"vector-view-view": "قرايه",
-	"vector-view-viewsource": "استعراض المصدر"
+	"slate.css": "/* CSS اللى هنا حتأثر على اليوزرز اللى بيستخدموا واجهة فكتور */",
+	"slate.js": "/* اى جافاسكريبت هنا حتتحمل لكل يوزر بيستخدم واجهة فكتور */",
+	"slate-action-addsection": "ضيف موضوع",
+	"slate-action-delete": "مسح",
+	"slate-action-move": "نقل",
+	"slate-action-protect": "حمايه",
+	"slate-action-undelete": "الغى المسح",
+	"slate-action-unprotect": "غير الحمايه",
+	"slate-view-create": "اعمل",
+	"slate-view-edit": "تعديل",
+	"slate-view-history": "استعراض التاريخ",
+	"slate-view-view": "قرايه",
+	"slate-view-viewsource": "استعراض المصدر"
 }

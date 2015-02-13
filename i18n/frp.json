@@ -4,18 +4,18 @@
 			"ChrisPtDe"
 		]
 	},
-	"skinname-vector": "Vèctor",
-	"vector.css": "/* Lo code CSS betâ ique afècterat los usanciérs de l’habelyâjo « Vèctor ». */",
-	"vector.js": "/* Tot code JavaScript betâ ique serat chargiê per los usanciérs de l’habelyâjo « Vèctor ». */",
-	"vector-action-addsection": "Apondre na chousa",
-	"vector-action-delete": "Suprimar",
-	"vector-action-move": "Dèplaciér",
-	"vector-action-protect": "Protègiér",
-	"vector-action-undelete": "Refâre",
-	"vector-action-unprotect": "Changiér la protèccion",
-	"vector-view-create": "Fâre",
-	"vector-view-edit": "Changiér",
-	"vector-view-history": "Vêre l’historico",
-	"vector-view-view": "Liére",
-	"vector-view-viewsource": "Vêre lo tèxto sôrsa"
+	"skinname-slate": "Vèctor",
+	"slate.css": "/* Lo code CSS betâ ique afècterat los usanciérs de l’habelyâjo « Vèctor ». */",
+	"slate.js": "/* Tot code JavaScript betâ ique serat chargiê per los usanciérs de l’habelyâjo « Vèctor ». */",
+	"slate-action-addsection": "Apondre na chousa",
+	"slate-action-delete": "Suprimar",
+	"slate-action-move": "Dèplaciér",
+	"slate-action-protect": "Protègiér",
+	"slate-action-undelete": "Refâre",
+	"slate-action-unprotect": "Changiér la protèccion",
+	"slate-view-create": "Fâre",
+	"slate-view-edit": "Changiér",
+	"slate-view-history": "Vêre l’historico",
+	"slate-view-view": "Liére",
+	"slate-view-viewsource": "Vêre lo tèxto sôrsa"
 }

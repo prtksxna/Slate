@@ -4,14 +4,14 @@
 			"Paulu"
 		]
 	},
-	"vector-action-addsection": "Aghjunghje discussione",
-	"vector-action-delete": "Supprimà",
-	"vector-action-move": "Cullucà",
-	"vector-action-protect": "Pruteghje",
-	"vector-action-unprotect": "Cambià a prutezzione",
-	"vector-view-create": "Creà",
-	"vector-view-edit": "Mudificà",
-	"vector-view-history": "Vede a cronolugia",
-	"vector-view-view": "Leghje",
-	"vector-view-viewsource": "Vede a surghjente"
+	"slate-action-addsection": "Aghjunghje discussione",
+	"slate-action-delete": "Supprimà",
+	"slate-action-move": "Cullucà",
+	"slate-action-protect": "Pruteghje",
+	"slate-action-unprotect": "Cambià a prutezzione",
+	"slate-view-create": "Creà",
+	"slate-view-edit": "Mudificà",
+	"slate-view-history": "Vede a cronolugia",
+	"slate-view-view": "Leghje",
+	"slate-view-viewsource": "Vede a surghjente"
 }

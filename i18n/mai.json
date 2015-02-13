@@ -5,16 +5,16 @@
 			"Umeshberma"
 		]
 	},
-	"skinname-vector": "सदिश",
-	"vector-action-addsection": "विचार-बिन्दु जोड़ू",
-	"vector-action-delete": "मेटाउ",
-	"vector-action-move": "घसकाउ",
-	"vector-action-protect": "रक्षण करू",
-	"vector-action-undelete": "आपस लाउ",
-	"vector-action-unprotect": "सुरक्षा बदलू",
-	"vector-view-create": "बनाउ",
-	"vector-view-edit": "सम्पादन करू",
-	"vector-view-history": "इतिहास देखू",
-	"vector-view-view": "पढ़ू",
-	"vector-view-viewsource": "जड़ि देखू"
+	"skinname-slate": "सदिश",
+	"slate-action-addsection": "विचार-बिन्दु जोड़ू",
+	"slate-action-delete": "मेटाउ",
+	"slate-action-move": "घसकाउ",
+	"slate-action-protect": "रक्षण करू",
+	"slate-action-undelete": "आपस लाउ",
+	"slate-action-unprotect": "सुरक्षा बदलू",
+	"slate-view-create": "बनाउ",
+	"slate-view-edit": "सम्पादन करू",
+	"slate-view-history": "इतिहास देखू",
+	"slate-view-view": "पढ़ू",
+	"slate-view-viewsource": "जड़ि देखू"
 }

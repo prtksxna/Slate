@@ -1,5 +1,5 @@
 {
-	"name"       : "mediawiki/vector-skin",
+	"name"       : "mediawiki/slate-skin",
 	"type"       : "mediawiki-skin",
 	"description": "Modern version of the MonoBook skin",
 	"keywords"   : [
@@ -7,7 +7,7 @@
 		"MediaWiki",
 		"skin"
 	],
-	"homepage"   : "https://www.mediawiki.org/wiki/Skin:Vector",
+	"homepage"   : "https://www.mediawiki.org/wiki/Skin:Slate",
 	"license"    : "GPL-2.0+",
 	"authors"    : [
 		{
@@ -18,9 +18,9 @@
 		}
 	],
 	"support"    : {
-		"wiki"  : "https://www.mediawiki.org/wiki/Skin:Vector",
-		"forum" : "https://www.mediawiki.org/wiki/Skin_talk:Vector",
-		"source": "https://git.wikimedia.org/summary/mediawiki%2Fskins%2FVector",
+		"wiki"  : "https://www.mediawiki.org/wiki/Skin:Slate",
+		"forum" : "https://www.mediawiki.org/wiki/Skin_talk:Slate",
+		"source": "https://git.wikimedia.org/summary/mediawiki%2Fskins%2FSlate",
 		"irc"   : "irc://irc.freenode.org/mediawiki"
 	},
 	"require"    : {
@@ -29,7 +29,7 @@
 	},
 	"autoload"   : {
 		"files": [
-			"Vector.php"
+			"Slate.php"
 		]
 	},
 	"extra"      : {

@@ -8,16 +8,16 @@
 			"Vito Genovese"
 		]
 	},
-	"vector-action-addsection": "Konu ekle",
-	"vector-action-delete": "Sil",
-	"vector-action-move": "Taşı",
-	"vector-action-protect": "Koru",
-	"vector-action-undelete": "Silinmeyi geri al",
-	"vector-action-unprotect": "Korumayı değiştir",
-	"vector-view-create": "Oluştur",
-	"vector-view-edit": "Düzenle",
-	"vector-view-history": "Geçmişi gör",
-	"vector-view-view": "Oku",
-	"vector-view-viewsource": "Kaynağı gör",
-	"vector-more-actions": "Diğer"
+	"slate-action-addsection": "Konu ekle",
+	"slate-action-delete": "Sil",
+	"slate-action-move": "Taşı",
+	"slate-action-protect": "Koru",
+	"slate-action-undelete": "Silinmeyi geri al",
+	"slate-action-unprotect": "Korumayı değiştir",
+	"slate-view-create": "Oluştur",
+	"slate-view-edit": "Düzenle",
+	"slate-view-history": "Geçmişi gör",
+	"slate-view-view": "Oku",
+	"slate-view-viewsource": "Kaynağı gör",
+	"slate-more-actions": "Diğer"
 }

@@ -6,17 +6,17 @@
 			"Nghtwlkr"
 		]
 	},
-	"vector-skin-desc": "Moderne versjon av MonoBook med et friskt utseende og mange bruksforbedringer",
-	"vector-action-addsection": "Nytt emne",
-	"vector-action-delete": "Slett",
-	"vector-action-move": "Flytt",
-	"vector-action-protect": "Beskytt",
-	"vector-action-undelete": "Gjenopprett",
-	"vector-action-unprotect": "Endre beskyttelse",
-	"vector-view-create": "Opprett",
-	"vector-view-edit": "Rediger",
-	"vector-view-history": "Vis historikk",
-	"vector-view-view": "Les",
-	"vector-view-viewsource": "Vis kilden",
-	"vector-more-actions": "Mer"
+	"slate-skin-desc": "Moderne versjon av MonoBook med et friskt utseende og mange bruksforbedringer",
+	"slate-action-addsection": "Nytt emne",
+	"slate-action-delete": "Slett",
+	"slate-action-move": "Flytt",
+	"slate-action-protect": "Beskytt",
+	"slate-action-undelete": "Gjenopprett",
+	"slate-action-unprotect": "Endre beskyttelse",
+	"slate-view-create": "Opprett",
+	"slate-view-edit": "Rediger",
+	"slate-view-history": "Vis historikk",
+	"slate-view-view": "Les",
+	"slate-view-viewsource": "Vis kilden",
+	"slate-more-actions": "Mer"
 }

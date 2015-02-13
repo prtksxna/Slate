@@ -5,15 +5,15 @@
 			"Khalid Mahmood"
 		]
 	},
-	"vector-action-addsection": "مضمون پاؤ",
-	"vector-action-delete": "مکاؤ",
-	"vector-action-move": "ٹرو",
-	"vector-action-protect": "بچاؤ",
-	"vector-action-undelete": "واپس لیاؤ",
-	"vector-action-unprotect": "تبدیلی بچاؤ",
-	"vector-view-create": "بناؤ",
-	"vector-view-edit": "لکھو",
-	"vector-view-history": "تریخ وکھاؤ",
-	"vector-view-view": "پڑھو",
-	"vector-view-viewsource": "ویکھو"
+	"slate-action-addsection": "مضمون پاؤ",
+	"slate-action-delete": "مکاؤ",
+	"slate-action-move": "ٹرو",
+	"slate-action-protect": "بچاؤ",
+	"slate-action-undelete": "واپس لیاؤ",
+	"slate-action-unprotect": "تبدیلی بچاؤ",
+	"slate-view-create": "بناؤ",
+	"slate-view-edit": "لکھو",
+	"slate-view-history": "تریخ وکھاؤ",
+	"slate-view-view": "پڑھو",
+	"slate-view-viewsource": "ویکھو"
 }

@@ -4,15 +4,15 @@
 			"Hanberke"
 		]
 	},
-	"vector-action-addsection": "Tema goş",
-	"vector-action-delete": "Öçür",
-	"vector-action-move": "Adyny üýtget",
-	"vector-action-protect": "Goraga al",
-	"vector-action-undelete": "Öçürmäni yzyna al",
-	"vector-action-unprotect": "Goragy üýtget",
-	"vector-view-create": "Döret",
-	"vector-view-edit": "Üýtget",
-	"vector-view-history": "Taryhy gör",
-	"vector-view-view": "Oka",
-	"vector-view-viewsource": "Çeşmäni gör"
+	"slate-action-addsection": "Tema goş",
+	"slate-action-delete": "Öçür",
+	"slate-action-move": "Adyny üýtget",
+	"slate-action-protect": "Goraga al",
+	"slate-action-undelete": "Öçürmäni yzyna al",
+	"slate-action-unprotect": "Goragy üýtget",
+	"slate-view-create": "Döret",
+	"slate-view-edit": "Üýtget",
+	"slate-view-history": "Taryhy gör",
+	"slate-view-view": "Oka",
+	"slate-view-viewsource": "Çeşmäni gör"
 }

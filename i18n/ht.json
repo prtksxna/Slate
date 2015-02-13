@@ -6,15 +6,15 @@
 			"Masterches"
 		]
 	},
-	"vector-action-addsection": "Ajoute yon sijè",
-	"vector-action-delete": "Efase",
-	"vector-action-move": "Chanje non",
-	"vector-action-protect": "Pwoteje",
-	"vector-action-undelete": "Retabli",
-	"vector-action-unprotect": "Pa pwoteje",
-	"vector-view-create": "Kreye",
-	"vector-view-edit": "Modifye",
-	"vector-view-history": "Gade istorik",
-	"vector-view-view": "Li",
-	"vector-view-viewsource": "Wè kòd tèks sa a"
+	"slate-action-addsection": "Ajoute yon sijè",
+	"slate-action-delete": "Efase",
+	"slate-action-move": "Chanje non",
+	"slate-action-protect": "Pwoteje",
+	"slate-action-undelete": "Retabli",
+	"slate-action-unprotect": "Pa pwoteje",
+	"slate-view-create": "Kreye",
+	"slate-view-edit": "Modifye",
+	"slate-view-history": "Gade istorik",
+	"slate-view-view": "Li",
+	"slate-view-viewsource": "Wè kòd tèks sa a"
 }

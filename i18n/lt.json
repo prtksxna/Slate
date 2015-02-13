@@ -8,17 +8,17 @@
 			"Hugo.arg"
 		]
 	},
-	"skinname-vector": "Vektorinė",
-	"vector-action-addsection": "Pridėti temą",
-	"vector-action-delete": "Ištrinti",
-	"vector-action-move": "Pervardyti",
-	"vector-action-protect": "Užrakinti",
-	"vector-action-undelete": "Atkurti",
-	"vector-action-unprotect": "Keisti apsaugą",
-	"vector-view-create": "Kurti",
-	"vector-view-edit": "Redaguoti",
-	"vector-view-history": "Istorija",
-	"vector-view-view": "Skaityti",
-	"vector-view-viewsource": "Žiūrėti kodą",
-	"vector-more-actions": "Daugiau"
+	"skinname-slate": "Vektorinė",
+	"slate-action-addsection": "Pridėti temą",
+	"slate-action-delete": "Ištrinti",
+	"slate-action-move": "Pervardyti",
+	"slate-action-protect": "Užrakinti",
+	"slate-action-undelete": "Atkurti",
+	"slate-action-unprotect": "Keisti apsaugą",
+	"slate-view-create": "Kurti",
+	"slate-view-edit": "Redaguoti",
+	"slate-view-history": "Istorija",
+	"slate-view-view": "Skaityti",
+	"slate-view-viewsource": "Žiūrėti kodą",
+	"slate-more-actions": "Daugiau"
 }

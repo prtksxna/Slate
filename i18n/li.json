@@ -4,15 +4,15 @@
 			"Ooswesthoesbes"
 		]
 	},
-	"vector-action-addsection": "Voog köpke toe",
-	"vector-action-delete": "Ewegsjaffe",
-	"vector-action-move": "Verplaats",
-	"vector-action-protect": "Besjirm",
-	"vector-action-undelete": "Plaats trök",
-	"vector-action-unprotect": "Anger beveiliging",
-	"vector-view-create": "Maak aan",
-	"vector-view-edit": "Bewirk",
-	"vector-view-history": "Bekiek de gesjiedenis",
-	"vector-view-view": "Laes",
-	"vector-view-viewsource": "Bekiek bróntèks"
+	"slate-action-addsection": "Voog köpke toe",
+	"slate-action-delete": "Ewegsjaffe",
+	"slate-action-move": "Verplaats",
+	"slate-action-protect": "Besjirm",
+	"slate-action-undelete": "Plaats trök",
+	"slate-action-unprotect": "Anger beveiliging",
+	"slate-view-create": "Maak aan",
+	"slate-view-edit": "Bewirk",
+	"slate-view-history": "Bekiek de gesjiedenis",
+	"slate-view-view": "Laes",
+	"slate-view-viewsource": "Bekiek bróntèks"
 }

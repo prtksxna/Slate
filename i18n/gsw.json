@@ -4,15 +4,15 @@
 			"Als-Holder"
 		]
 	},
-	"vector-action-addsection": "Abschnitt zuefiege",
-	"vector-action-delete": "Lesche",
-	"vector-action-move": "Verschiebe",
-	"vector-action-protect": "Schitze",
-	"vector-action-undelete": "Widerhärstelle",
-	"vector-action-unprotect": "Syteschutz ändere",
-	"vector-view-create": "Aalege",
-	"vector-view-edit": "Bearbeite",
-	"vector-view-history": "Versionsgschicht",
-	"vector-view-view": "Läse",
-	"vector-view-viewsource": "Quälltext aaluege"
+	"slate-action-addsection": "Abschnitt zuefiege",
+	"slate-action-delete": "Lesche",
+	"slate-action-move": "Verschiebe",
+	"slate-action-protect": "Schitze",
+	"slate-action-undelete": "Widerhärstelle",
+	"slate-action-unprotect": "Syteschutz ändere",
+	"slate-view-create": "Aalege",
+	"slate-view-edit": "Bearbeite",
+	"slate-view-history": "Versionsgschicht",
+	"slate-view-view": "Läse",
+	"slate-view-viewsource": "Quälltext aaluege"
 }

@@ -5,16 +5,16 @@
 			"RigiMahnoor"
 		]
 	},
-	"vector-action-addsection": "هور کتن عنوان",
-	"vector-action-delete": "زورگ",
-	"vector-action-move": "جاه په جاه",
-	"vector-action-protect": "حفاظت",
-	"vector-action-undelete": "ترینگ",
-	"vector-action-unprotect": "پروتکشنء ٹگل بدئ",
-	"vector-view-create": "شرکتن",
-	"vector-view-edit": "اصلاح",
-	"vector-view-history": "چارتن تاریح",
-	"vector-view-view": "وانتن",
-	"vector-view-viewsource": "پیشدارگ بن جاه",
-	"vector-more-actions": "گیشتر"
+	"slate-action-addsection": "هور کتن عنوان",
+	"slate-action-delete": "زورگ",
+	"slate-action-move": "جاه په جاه",
+	"slate-action-protect": "حفاظت",
+	"slate-action-undelete": "ترینگ",
+	"slate-action-unprotect": "پروتکشنء ٹگل بدئ",
+	"slate-view-create": "شرکتن",
+	"slate-view-edit": "اصلاح",
+	"slate-view-history": "چارتن تاریح",
+	"slate-view-view": "وانتن",
+	"slate-view-viewsource": "پیشدارگ بن جاه",
+	"slate-more-actions": "گیشتر"
 }

@@ -4,16 +4,16 @@
 			"Ianbu"
 		]
 	},
-	"vector-action-addsection": "Ke chi̍t-ê toān-lo̍h",
-	"vector-action-delete": "Thâi",
-	"vector-action-move": "Sóa khì",
-	"vector-action-protect": "Pó-hō·",
-	"vector-action-undelete": "chhú-siau thâi tiàu",
-	"vector-action-unprotect": "kái pó-hō·",
-	"vector-view-create": "Khai-sí siá",
-	"vector-view-edit": "Siu-kái",
-	"vector-view-history": "khoàⁿ le̍k-sú",
-	"vector-view-view": "Tha̍k",
-	"vector-view-viewsource": "Khoàⁿ goân-sú lōe-iông",
-	"vector-more-actions": "閣看"
+	"slate-action-addsection": "Ke chi̍t-ê toān-lo̍h",
+	"slate-action-delete": "Thâi",
+	"slate-action-move": "Sóa khì",
+	"slate-action-protect": "Pó-hō·",
+	"slate-action-undelete": "chhú-siau thâi tiàu",
+	"slate-action-unprotect": "kái pó-hō·",
+	"slate-view-create": "Khai-sí siá",
+	"slate-view-edit": "Siu-kái",
+	"slate-view-history": "khoàⁿ le̍k-sú",
+	"slate-view-view": "Tha̍k",
+	"slate-view-viewsource": "Khoàⁿ goân-sú lōe-iông",
+	"slate-more-actions": "閣看"
 }

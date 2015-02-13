@@ -4,7 +4,7 @@
 			"Sotiale"
 		]
 	},
-	"vector-action-move": "Muv",
-	"vector-view-history": "Lukluk histri",
-	"vector-view-view": "Rid"
+	"slate-action-move": "Muv",
+	"slate-view-history": "Lukluk histri",
+	"slate-view-view": "Rid"
 }

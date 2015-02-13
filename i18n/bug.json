@@ -4,9 +4,9 @@
 			"Kurniasan"
 		]
 	},
-	"vector-action-move": "Paléccé'",
-	"vector-view-create": "Ebbu",
-	"vector-view-edit": "Padéccéng",
-	"vector-view-view": "Baca",
-	"vector-view-viewsource": "Ita sumber"
+	"slate-action-move": "Paléccé'",
+	"slate-view-create": "Ebbu",
+	"slate-view-edit": "Padéccéng",
+	"slate-view-view": "Baca",
+	"slate-view-viewsource": "Ita sumber"
 }

@@ -7,17 +7,17 @@
 			"Mirzali"
 		]
 	},
-	"skinname-vector": "Vektor",
-	"vector-action-addsection": "Mewzu vıraze",
-	"vector-action-delete": "Bestere",
-	"vector-action-move": "Bere",
-	"vector-action-protect": "Bışevekne",
-	"vector-action-undelete": "Esterıtışi peyser bıgê",
-	"vector-action-unprotect": "Starkerdışi bıvurne",
-	"vector-view-create": "Vıraze",
-	"vector-view-edit": "Bıvurne",
-	"vector-view-history": "Tarixê pele bıvêne",
-	"vector-view-view": "Bıwane",
-	"vector-view-viewsource": "Çımey bıvêne",
-	"vector-more-actions": "Zêde"
+	"skinname-slate": "Vektor",
+	"slate-action-addsection": "Mewzu vıraze",
+	"slate-action-delete": "Bestere",
+	"slate-action-move": "Bere",
+	"slate-action-protect": "Bışevekne",
+	"slate-action-undelete": "Esterıtışi peyser bıgê",
+	"slate-action-unprotect": "Starkerdışi bıvurne",
+	"slate-view-create": "Vıraze",
+	"slate-view-edit": "Bıvurne",
+	"slate-view-history": "Tarixê pele bıvêne",
+	"slate-view-view": "Bıwane",
+	"slate-view-viewsource": "Çımey bıvêne",
+	"slate-more-actions": "Zêde"
 }

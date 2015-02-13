@@ -9,17 +9,17 @@
 			"He7d3r"
 		]
 	},
-	"vector.js": "/* Qualquer JavaScript aqui colocado afetará os usuários do skin Vector */",
-	"vector-action-addsection": "Adicionar tópico",
-	"vector-action-delete": "Eliminar",
-	"vector-action-move": "Mover",
-	"vector-action-protect": "Proteger",
-	"vector-action-undelete": "Restaurar",
-	"vector-action-unprotect": "Alterar a proteção",
-	"vector-view-create": "Criar",
-	"vector-view-edit": "Editar",
-	"vector-view-history": "Ver histórico",
-	"vector-view-view": "Ler",
-	"vector-view-viewsource": "Ver código-fonte",
-	"vector-more-actions": "Mais"
+	"slate.js": "/* Qualquer JavaScript aqui colocado afetará os usuários do skin Slate */",
+	"slate-action-addsection": "Adicionar tópico",
+	"slate-action-delete": "Eliminar",
+	"slate-action-move": "Mover",
+	"slate-action-protect": "Proteger",
+	"slate-action-undelete": "Restaurar",
+	"slate-action-unprotect": "Alterar a proteção",
+	"slate-view-create": "Criar",
+	"slate-view-edit": "Editar",
+	"slate-view-history": "Ver histórico",
+	"slate-view-view": "Ler",
+	"slate-view-viewsource": "Ver código-fonte",
+	"slate-more-actions": "Mais"
 }

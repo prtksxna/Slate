@@ -4,15 +4,15 @@
 			"Гусейн"
 		]
 	},
-	"vector-action-addsection": "Мывзу зијод кардеј",
-	"vector-action-delete": "Рәдд кардеј",
-	"vector-action-move": "Номи дәгиш кардеј",
-	"vector-action-protect": "Мыдофијә кардеј",
-	"vector-action-undelete": "Бәрпо кардеј",
-	"vector-action-unprotect": "Мыдофијә дәгиш кардеј",
-	"vector-view-create": "Офәјеј",
-	"vector-view-edit": "Сәрост кардеј",
-	"vector-view-history": "Тарых",
-	"vector-view-view": "Һандемон",
-	"vector-view-viewsource": "Дијә кардеј"
+	"slate-action-addsection": "Мывзу зијод кардеј",
+	"slate-action-delete": "Рәдд кардеј",
+	"slate-action-move": "Номи дәгиш кардеј",
+	"slate-action-protect": "Мыдофијә кардеј",
+	"slate-action-undelete": "Бәрпо кардеј",
+	"slate-action-unprotect": "Мыдофијә дәгиш кардеј",
+	"slate-view-create": "Офәјеј",
+	"slate-view-edit": "Сәрост кардеј",
+	"slate-view-history": "Тарых",
+	"slate-view-view": "Һандемон",
+	"slate-view-viewsource": "Дијә кардеј"
 }

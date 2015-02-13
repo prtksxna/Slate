@@ -5,15 +5,15 @@
 			"Tifinaghes"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⵓⴽⵓⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
-	"vector-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
-	"vector-view-create": "ⴰⵔⴰ",
-	"vector-view-edit": "ⴱⴷⴷⴻⵍ",
-	"vector-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ"
+	"skinname-slate": "Slate",
+	"slate-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"slate-action-delete": "ⵓⴽⵓⵙ",
+	"slate-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"slate-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"slate-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"slate-view-create": "ⴰⵔⴰ",
+	"slate-view-edit": "ⴱⴷⴷⴻⵍ",
+	"slate-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"slate-view-view": "ⵖⵔ",
+	"slate-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ"
 }

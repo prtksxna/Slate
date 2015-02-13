@@ -5,15 +5,15 @@
 			"Zanatos"
 		]
 	},
-	"vector-action-addsection": "Zid topic",
-	"vector-action-delete": "Suprimi",
-	"vector-action-move": "Neqel",
-	"vector-action-protect": "Ḫami",
-	"vector-action-undelete": "rja lhadf",
-	"vector-action-unprotect": "Ḫiyed l-ḫimaya",
-	"vector-view-create": "Ĥṫareĝ",
-	"vector-view-edit": "Ĝedel",
-	"vector-view-history": "Ṫariĥ l-fiċyé",
-	"vector-view-view": "Qra",
-	"vector-view-viewsource": "Ċof l-masdar"
+	"slate-action-addsection": "Zid topic",
+	"slate-action-delete": "Suprimi",
+	"slate-action-move": "Neqel",
+	"slate-action-protect": "Ḫami",
+	"slate-action-undelete": "rja lhadf",
+	"slate-action-unprotect": "Ḫiyed l-ḫimaya",
+	"slate-view-create": "Ĥṫareĝ",
+	"slate-view-edit": "Ĝedel",
+	"slate-view-history": "Ṫariĥ l-fiċyé",
+	"slate-view-view": "Qra",
+	"slate-view-viewsource": "Ċof l-masdar"
 }

@@ -4,15 +4,15 @@
 			"Ooswesthoesbes"
 		]
 	},
-	"vector-action-addsection": "Voeg kopje toe",
-	"vector-action-delete": "Wissen",
-	"vector-action-move": "Verschuuf",
-	"vector-action-protect": "Bescherm",
-	"vector-action-undelete": "Plaets truhhe",
-	"vector-action-unprotect": "Beveiligienge anpass'n",
-	"vector-view-create": "Anmaeken",
-	"vector-view-edit": "Bewerk",
-	"vector-view-history": "Geschiedenisse bekiek'n",
-	"vector-view-view": "Lezen",
-	"vector-view-viewsource": "Brontekst bekieken"
+	"slate-action-addsection": "Voeg kopje toe",
+	"slate-action-delete": "Wissen",
+	"slate-action-move": "Verschuuf",
+	"slate-action-protect": "Bescherm",
+	"slate-action-undelete": "Plaets truhhe",
+	"slate-action-unprotect": "Beveiligienge anpass'n",
+	"slate-view-create": "Anmaeken",
+	"slate-view-edit": "Bewerk",
+	"slate-view-history": "Geschiedenisse bekiek'n",
+	"slate-view-view": "Lezen",
+	"slate-view-viewsource": "Brontekst bekieken"
 }

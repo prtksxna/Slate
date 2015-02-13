@@ -4,15 +4,15 @@
 			"Numulunj pilgae"
 		]
 	},
-	"vector-action-addsection": "Поладомс мезень колга корхтамс",
-	"vector-action-delete": "Нардамс",
-	"vector-action-move": "Шашфтомс",
-	"vector-action-protect": "Араламс",
-	"vector-action-undelete": "Мърдафтомс",
-	"vector-action-unprotect": "Араламать полафтомс",
-	"vector-view-create": "Тиемс",
-	"vector-view-edit": "Петнемс",
-	"vector-view-history": "История няфтемс",
-	"vector-view-view": "Морафтомс",
-	"vector-view-viewsource": "Лисьма няфтемс"
+	"slate-action-addsection": "Поладомс мезень колга корхтамс",
+	"slate-action-delete": "Нардамс",
+	"slate-action-move": "Шашфтомс",
+	"slate-action-protect": "Араламс",
+	"slate-action-undelete": "Мърдафтомс",
+	"slate-action-unprotect": "Араламать полафтомс",
+	"slate-view-create": "Тиемс",
+	"slate-view-edit": "Петнемс",
+	"slate-view-history": "История няфтемс",
+	"slate-view-view": "Морафтомс",
+	"slate-view-viewsource": "Лисьма няфтемс"
 }

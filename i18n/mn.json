@@ -6,15 +6,15 @@
 			"Wisdom"
 		]
 	},
-	"vector-action-addsection": "Сэдэв нэмэх",
-	"vector-action-delete": "Устгах",
-	"vector-action-move": "Зөөх",
-	"vector-action-protect": "Хамгаалах",
-	"vector-action-undelete": "Үл устгах",
-	"vector-action-unprotect": "Хамгаалалтаа солих",
-	"vector-view-create": "Үүсгэх",
-	"vector-view-edit": "Засварлах",
-	"vector-view-history": "Түүх",
-	"vector-view-view": "Унших",
-	"vector-view-viewsource": "Кодыг харах"
+	"slate-action-addsection": "Сэдэв нэмэх",
+	"slate-action-delete": "Устгах",
+	"slate-action-move": "Зөөх",
+	"slate-action-protect": "Хамгаалах",
+	"slate-action-undelete": "Үл устгах",
+	"slate-action-unprotect": "Хамгаалалтаа солих",
+	"slate-view-create": "Үүсгэх",
+	"slate-view-edit": "Засварлах",
+	"slate-view-history": "Түүх",
+	"slate-view-view": "Унших",
+	"slate-view-viewsource": "Кодыг харах"
 }

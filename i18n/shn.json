@@ -4,10 +4,10 @@
 			"Saiddzone"
 		]
 	},
-	"vector-action-protect": "ႁေႉၵင်ႈ",
-	"vector-view-create": "သၢင်ႈ",
-	"vector-view-edit": "မူၼ်ႉမႄး",
-	"vector-view-history": "တူၺ်းပိုၼ်း",
-	"vector-view-view": "လူတူၺ်း",
-	"vector-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ"
+	"slate-action-protect": "ႁေႉၵင်ႈ",
+	"slate-view-create": "သၢင်ႈ",
+	"slate-view-edit": "မူၼ်ႉမႄး",
+	"slate-view-history": "တူၺ်းပိုၼ်း",
+	"slate-view-view": "လူတူၺ်း",
+	"slate-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ"
 }

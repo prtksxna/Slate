@@ -4,15 +4,15 @@
 			"Mogoeilor"
 		]
 	},
-	"vector-action-addsection": "موضوع اضاف بكيد",
-	"vector-action-delete": "پاکسا کردن",
-	"vector-action-move": "جاوه جا بوئيت",
-	"vector-action-protect": "پر و پیم بكيد",
-	"vector-action-undelete": "حذف نبيئني",
-	"vector-action-unprotect": "حمايت آلشت بكيد",
-	"vector-view-create": "راس كردن",
-	"vector-view-edit": "ويرايشت",
-	"vector-view-history": "ديئن ويرگار",
-	"vector-view-view": "حنن",
-	"vector-view-viewsource": "سرچشمه نه بوينيت"
+	"slate-action-addsection": "موضوع اضاف بكيد",
+	"slate-action-delete": "پاکسا کردن",
+	"slate-action-move": "جاوه جا بوئيت",
+	"slate-action-protect": "پر و پیم بكيد",
+	"slate-action-undelete": "حذف نبيئني",
+	"slate-action-unprotect": "حمايت آلشت بكيد",
+	"slate-view-create": "راس كردن",
+	"slate-view-edit": "ويرايشت",
+	"slate-view-history": "ديئن ويرگار",
+	"slate-view-view": "حنن",
+	"slate-view-viewsource": "سرچشمه نه بوينيت"
 }

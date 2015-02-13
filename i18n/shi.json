@@ -4,15 +4,15 @@
 			"Dalinanir"
 		]
 	},
-	"vector-action-addsection": "Zayd amli",
-	"vector-action-delete": "Ḥiyd",
-	"vector-action-move": "Smmatti",
-	"vector-action-protect": "Ḥbu",
-	"vector-action-undelete": "Rard may mayḥiydn",
-	"vector-action-unprotect": "Ḥiyd aḥbu",
-	"vector-view-create": "Skert",
-	"vector-view-edit": "Ara",
-	"vector-view-history": "Mel amzruy",
-	"vector-view-view": "ɣr",
-	"vector-view-viewsource": "Ẓr asagm"
+	"slate-action-addsection": "Zayd amli",
+	"slate-action-delete": "Ḥiyd",
+	"slate-action-move": "Smmatti",
+	"slate-action-protect": "Ḥbu",
+	"slate-action-undelete": "Rard may mayḥiydn",
+	"slate-action-unprotect": "Ḥiyd aḥbu",
+	"slate-view-create": "Skert",
+	"slate-view-edit": "Ara",
+	"slate-view-history": "Mel amzruy",
+	"slate-view-view": "ɣr",
+	"slate-view-viewsource": "Ẓr asagm"
 }

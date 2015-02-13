@@ -5,17 +5,17 @@
 			"Pyt"
 		]
 	},
-	"vector-skin-desc": "Modern werjuun faan Monobook mä frisk skak an föl muar mögelkhaiden",
-	"vector-action-addsection": "Nei kirew began",
-	"vector-action-delete": "Strik",
-	"vector-action-move": "Fersküüw",
-	"vector-action-protect": "Seekre",
-	"vector-action-undelete": "Weder iinstel",
-	"vector-action-unprotect": "Sidjenseekerhaid",
-	"vector-view-create": "Maage",
-	"vector-view-edit": "Bewerke",
-	"vector-view-history": "Ferluup uunluke",
-	"vector-view-view": "Lees",
-	"vector-view-viewsource": "Kweltekst uunluke",
-	"vector-more-actions": "Muar"
+	"slate-skin-desc": "Modern werjuun faan Monobook mä frisk skak an föl muar mögelkhaiden",
+	"slate-action-addsection": "Nei kirew began",
+	"slate-action-delete": "Strik",
+	"slate-action-move": "Fersküüw",
+	"slate-action-protect": "Seekre",
+	"slate-action-undelete": "Weder iinstel",
+	"slate-action-unprotect": "Sidjenseekerhaid",
+	"slate-view-create": "Maage",
+	"slate-view-edit": "Bewerke",
+	"slate-view-history": "Ferluup uunluke",
+	"slate-view-view": "Lees",
+	"slate-view-viewsource": "Kweltekst uunluke",
+	"slate-more-actions": "Muar"
 }

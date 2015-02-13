@@ -4,16 +4,16 @@
 			"Lévi"
 		]
 	},
-	"vector-action-addsection": "Zûnta discusiòun",
-	"vector-action-delete": "Scanşèla",
-	"vector-action-move": "Spôsta",
-	"vector-action-protect": "Prutēz",
-	"vector-action-undelete": "Fà al recóper",
-	"vector-action-unprotect": "Câmbia la prutesiòun",
-	"vector-view-create": "Invèinta",
-	"vector-view-edit": "Mudéfica",
-	"vector-view-history": "Guêrda la stôria",
-	"vector-view-view": "Lēş",
-	"vector-view-viewsource": "Guêrda la surzéia",
-	"vector-more-actions": "Êter"
+	"slate-action-addsection": "Zûnta discusiòun",
+	"slate-action-delete": "Scanşèla",
+	"slate-action-move": "Spôsta",
+	"slate-action-protect": "Prutēz",
+	"slate-action-undelete": "Fà al recóper",
+	"slate-action-unprotect": "Câmbia la prutesiòun",
+	"slate-view-create": "Invèinta",
+	"slate-view-edit": "Mudéfica",
+	"slate-view-history": "Guêrda la stôria",
+	"slate-view-view": "Lēş",
+	"slate-view-viewsource": "Guêrda la surzéia",
+	"slate-more-actions": "Êter"
 }

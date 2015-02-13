@@ -6,15 +6,15 @@
 			"Trondtr"
 		]
 	},
-	"vector-action-addsection": "Lasit fáttá",
-	"vector-action-delete": "Sihko",
-	"vector-action-move": "Sirdde",
-	"vector-action-protect": "Suodjal",
-	"vector-action-undelete": "Máhcat",
-	"vector-action-unprotect": "Rievdat suodjaleami",
-	"vector-view-create": "Álggat",
-	"vector-view-edit": "Rievdat",
-	"vector-view-history": "Geahča historjjá",
-	"vector-view-view": "Loga",
-	"vector-view-viewsource": "Geahča gáldokoda"
+	"slate-action-addsection": "Lasit fáttá",
+	"slate-action-delete": "Sihko",
+	"slate-action-move": "Sirdde",
+	"slate-action-protect": "Suodjal",
+	"slate-action-undelete": "Máhcat",
+	"slate-action-unprotect": "Rievdat suodjaleami",
+	"slate-view-create": "Álggat",
+	"slate-view-edit": "Rievdat",
+	"slate-view-history": "Geahča historjjá",
+	"slate-view-view": "Loga",
+	"slate-view-viewsource": "Geahča gáldokoda"
 }

@@ -4,15 +4,15 @@
 			"Kolonahe"
 		]
 	},
-	"vector-action-addsection": "Hoʻohui kumuhana",
-	"vector-action-delete": "Holoi",
-	"vector-action-move": "E hoʻoneʻe",
-	"vector-action-protect": "E hoʻomalu",
-	"vector-action-undelete": "Holoiʻole",
-	"vector-action-unprotect": "E hoʻololi i ka hoʻomalu",
-	"vector-view-create": "Haku",
-	"vector-view-edit": "Hoʻololi",
-	"vector-view-history": "Nānā i ka mōʻaukala",
-	"vector-view-view": "Heluhelu",
-	"vector-view-viewsource": "Nānā i ke kumu"
+	"slate-action-addsection": "Hoʻohui kumuhana",
+	"slate-action-delete": "Holoi",
+	"slate-action-move": "E hoʻoneʻe",
+	"slate-action-protect": "E hoʻomalu",
+	"slate-action-undelete": "Holoiʻole",
+	"slate-action-unprotect": "E hoʻololi i ka hoʻomalu",
+	"slate-view-create": "Haku",
+	"slate-view-edit": "Hoʻololi",
+	"slate-view-history": "Nānā i ka mōʻaukala",
+	"slate-view-view": "Heluhelu",
+	"slate-view-viewsource": "Nānā i ke kumu"
 }

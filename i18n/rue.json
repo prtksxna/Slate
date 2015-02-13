@@ -4,15 +4,15 @@
 			"Gazeb"
 		]
 	},
-	"vector-action-addsection": "Придати тему",
-	"vector-action-delete": "Вымазати",
-	"vector-action-move": "Переменовати",
-	"vector-action-protect": "Всокотити",
-	"vector-action-undelete": "Обновити",
-	"vector-action-unprotect": "Змінити замок",
-	"vector-view-create": "Створити",
-	"vector-view-edit": "Едітовати",
-	"vector-view-history": "Видїти історію",
-	"vector-view-view": "Чітати",
-	"vector-view-viewsource": "Видїти код"
+	"slate-action-addsection": "Придати тему",
+	"slate-action-delete": "Вымазати",
+	"slate-action-move": "Переменовати",
+	"slate-action-protect": "Всокотити",
+	"slate-action-undelete": "Обновити",
+	"slate-action-unprotect": "Змінити замок",
+	"slate-view-create": "Створити",
+	"slate-view-edit": "Едітовати",
+	"slate-view-history": "Видїти історію",
+	"slate-view-view": "Чітати",
+	"slate-view-viewsource": "Видїти код"
 }

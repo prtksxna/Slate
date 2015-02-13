@@ -5,15 +5,15 @@
 			"Giromin Cangiaxo"
 		]
 	},
-	"vector-action-addsection": "Azónzi discusción",
-	"vector-action-delete": "Scancella",
-	"vector-action-move": "Mescia",
-	"vector-action-protect": "Protezi",
-	"vector-action-undelete": "Recuppera",
-	"vector-action-unprotect": "Cangia a proteçion",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Càngia",
-	"vector-view-history": "Fanni védde a Stöia",
-	"vector-view-view": "Lêzi",
-	"vector-view-viewsource": "Veddi a sorgénte"
+	"slate-action-addsection": "Azónzi discusción",
+	"slate-action-delete": "Scancella",
+	"slate-action-move": "Mescia",
+	"slate-action-protect": "Protezi",
+	"slate-action-undelete": "Recuppera",
+	"slate-action-unprotect": "Cangia a proteçion",
+	"slate-view-create": "Crea",
+	"slate-view-edit": "Càngia",
+	"slate-view-history": "Fanni védde a Stöia",
+	"slate-view-view": "Lêzi",
+	"slate-view-viewsource": "Veddi a sorgénte"
 }

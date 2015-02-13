@@ -4,12 +4,12 @@
 			"Szonja"
 		]
 	},
-	"vector-action-addsection": "Tilja topikos",
-	"vector-action-delete": "Tšuu nikki",
-	"vector-action-undelete": "Tšuu paale",
-	"vector-view-create": "Luona",
-	"vector-view-edit": "Muoka",
-	"vector-view-history": "Sik histores",
-	"vector-view-view": "Draba",
-	"vector-view-viewsource": "Sik navasiinako koodos"
+	"slate-action-addsection": "Tilja topikos",
+	"slate-action-delete": "Tšuu nikki",
+	"slate-action-undelete": "Tšuu paale",
+	"slate-view-create": "Luona",
+	"slate-view-edit": "Muoka",
+	"slate-view-history": "Sik histores",
+	"slate-view-view": "Draba",
+	"slate-view-viewsource": "Sik navasiinako koodos"
 }

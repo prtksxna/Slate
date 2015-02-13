@@ -5,17 +5,17 @@
 			"Gazimagomedov"
 		]
 	},
-	"vector-skin-desc": "MonoBook'алъул цӀияб версия цияб куцгун ва цӀиял юзабилитиялгун",
-	"vector-action-addsection": "Тема жубазе",
-	"vector-action-delete": "БацIцIине",
-	"vector-action-move": "ЦӀар хисизе",
-	"vector-action-protect": "Хиса-басияздасан цIунизе",
-	"vector-action-undelete": "БукӀараб гӀадин гьабизе",
-	"vector-action-unprotect": "ЦӀуни хисизе",
-	"vector-view-create": "Гьабизе",
-	"vector-view-edit": "Хисизабизе",
-	"vector-view-history": "Тарих балагьизе",
-	"vector-view-view": "ЦӀализе",
-	"vector-view-viewsource": "Вики-текст балагьизе",
-	"vector-more-actions": "Жеги"
+	"slate-skin-desc": "MonoBook'алъул цӀияб версия цияб куцгун ва цӀиял юзабилитиялгун",
+	"slate-action-addsection": "Тема жубазе",
+	"slate-action-delete": "БацIцIине",
+	"slate-action-move": "ЦӀар хисизе",
+	"slate-action-protect": "Хиса-басияздасан цIунизе",
+	"slate-action-undelete": "БукӀараб гӀадин гьабизе",
+	"slate-action-unprotect": "ЦӀуни хисизе",
+	"slate-view-create": "Гьабизе",
+	"slate-view-edit": "Хисизабизе",
+	"slate-view-history": "Тарих балагьизе",
+	"slate-view-view": "ЦӀализе",
+	"slate-view-viewsource": "Вики-текст балагьизе",
+	"slate-more-actions": "Жеги"
 }

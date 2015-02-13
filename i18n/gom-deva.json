@@ -7,13 +7,13 @@
 			"Supriya kankumbikar"
 		]
 	},
-	"vector-action-addsection": "माथाळो दियात",
-	"vector-action-delete": "काडून उडयात",
-	"vector-action-move": "दुसरेकडे व्हरात",
-	"vector-action-protect": "राख",
-	"vector-view-create": "निर्माण कर",
-	"vector-view-edit": "बदल",
-	"vector-view-history": "इतिहास पळेयात",
-	"vector-view-view": "वाचचें",
-	"vector-view-viewsource": "उगम पळेयात"
+	"slate-action-addsection": "माथाळो दियात",
+	"slate-action-delete": "काडून उडयात",
+	"slate-action-move": "दुसरेकडे व्हरात",
+	"slate-action-protect": "राख",
+	"slate-view-create": "निर्माण कर",
+	"slate-view-edit": "बदल",
+	"slate-view-history": "इतिहास पळेयात",
+	"slate-view-view": "वाचचें",
+	"slate-view-viewsource": "उगम पळेयात"
 }

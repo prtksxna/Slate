@@ -4,13 +4,13 @@
 			"Wikimistusik"
 		]
 	},
-	"vector-action-addsection": "Loplekura va detce",
-	"vector-action-delete": "Sulara",
-	"vector-action-move": "Arrundara",
-	"vector-action-protect": "Nendara",
-	"vector-view-create": "Redura",
-	"vector-view-edit": "Betara",
-	"vector-view-history": "Wira va izvot",
-	"vector-view-view": "Belira",
-	"vector-view-viewsource": "klitawira"
+	"slate-action-addsection": "Loplekura va detce",
+	"slate-action-delete": "Sulara",
+	"slate-action-move": "Arrundara",
+	"slate-action-protect": "Nendara",
+	"slate-view-create": "Redura",
+	"slate-view-edit": "Betara",
+	"slate-view-history": "Wira va izvot",
+	"slate-view-view": "Belira",
+	"slate-view-viewsource": "klitawira"
 }

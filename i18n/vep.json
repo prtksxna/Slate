@@ -4,15 +4,15 @@
 			"Игорь Бродский"
 		]
 	},
-	"vector-action-addsection": "Ližada tem",
-	"vector-action-delete": "Čuta poiš",
-	"vector-action-move": "Udesnimitada",
-	"vector-action-protect": "Kaita",
-	"vector-action-undelete": "Pördutada",
-	"vector-action-unprotect": "Toižetada kaičend",
-	"vector-view-create": "Säta",
-	"vector-view-edit": "Redaktiruida",
-	"vector-view-history": "Kacta istorii",
-	"vector-view-view": "Lugeda",
-	"vector-view-viewsource": "Kacta purtkehe"
+	"slate-action-addsection": "Ližada tem",
+	"slate-action-delete": "Čuta poiš",
+	"slate-action-move": "Udesnimitada",
+	"slate-action-protect": "Kaita",
+	"slate-action-undelete": "Pördutada",
+	"slate-action-unprotect": "Toižetada kaičend",
+	"slate-view-create": "Säta",
+	"slate-view-edit": "Redaktiruida",
+	"slate-view-history": "Kacta istorii",
+	"slate-view-view": "Lugeda",
+	"slate-view-viewsource": "Kacta purtkehe"
 }

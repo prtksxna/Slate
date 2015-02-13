@@ -4,9 +4,9 @@
 			"Sahaquiel9102"
 		]
 	},
-	"vector-action-delete": "Cjũcj",
-	"vector-action-move": "Quẽese'j",
-	"vector-action-protect": "Pjupj",
-	"vector-view-edit": "Yu'ptjej",
-	"vector-view-view": "Lẽeĩ"
+	"slate-action-delete": "Cjũcj",
+	"slate-action-move": "Quẽese'j",
+	"slate-action-protect": "Pjupj",
+	"slate-view-edit": "Yu'ptjej",
+	"slate-view-view": "Lẽeĩ"
 }

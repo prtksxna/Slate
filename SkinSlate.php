@@ -1,6 +1,6 @@
 <?php
 /**
- * Vector - Modern version of MonoBook with fresh look and many usability
+ * Slate - Modern version of MonoBook with fresh look and many usability
  * improvements.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -23,20 +23,20 @@
  */
 
 /**
- * SkinTemplate class for Vector skin
+ * SkinTemplate class for Slate skin
  * @ingroup Skins
  */
-class SkinVector extends SkinTemplate {
-	public $skinname = 'vector';
-	public $stylename = 'Vector';
-	public $template = 'VectorTemplate';
+class SkinSlate extends SkinTemplate {
+	public $skinname = 'slate';
+	public $stylename = 'Slate';
+	public $template = 'SlateTemplate';
 	/**
 	 * @var Config
 	 */
-	private $vectorConfig;
+	private $slateConfig;
 
 	public function __construct() {
-		$this->vectorConfig = ConfigFactory::getDefaultInstance()->makeConfig( 'vector' );
+		$this->slateConfig = ConfigFactory::getDefaultInstance()->makeConfig( 'slate' );
 	}
 
 	/**
@@ -56,7 +56,7 @@ class SkinVector extends SkinTemplate {
 				"/{$this->stylename}/csshover{$min}.htc\")}</style><![endif]-->"
 		);
 
-		$out->addModules( array( 'skins.vector.js' ) );
+		$out->addModules( array( 'skins.slate.js' ) );
 	}
 
 	/**
@@ -66,8 +66,8 @@ class SkinVector extends SkinTemplate {
 	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
 
-		$styles = array( 'mediawiki.skinning.interface', 'skins.vector.styles' );
-		wfRunHooks( 'SkinVectorStyleModules', array( $this, &$styles ) );
+		$styles = array( 'mediawiki.skinning.interface', 'skins.slate.styles' );
+		wfRunHooks( 'SkinSlateStyleModules', array( $this, &$styles ) );
 		$out->addModuleStyles( $styles );
 	}
 
@@ -75,6 +75,6 @@ class SkinVector extends SkinTemplate {
 	 * Override to pass our Config instance to it
 	 */
 	public function setupTemplate( $classname, $repository = false, $cache_dir = false ) {
-		return new $classname( $this->vectorConfig );
+		return new $classname( $this->slateConfig );
 	}
 }

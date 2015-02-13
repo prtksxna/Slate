@@ -4,15 +4,15 @@
 			"Benojan"
 		]
 	},
-	"vector-action-addsection": "加話題",
-	"vector-action-delete": "刪",
-	"vector-action-move": "移",
-	"vector-action-protect": "保",
-	"vector-action-undelete": "弗刪",
-	"vector-action-unprotect": "换保护状态",
-	"vector-view-create": "建",
-	"vector-view-edit": "编",
-	"vector-view-history": "望页史",
-	"vector-view-view": "读",
-	"vector-view-viewsource": "望源码"
+	"slate-action-addsection": "加話題",
+	"slate-action-delete": "刪",
+	"slate-action-move": "移",
+	"slate-action-protect": "保",
+	"slate-action-undelete": "弗刪",
+	"slate-action-unprotect": "换保护状态",
+	"slate-view-create": "建",
+	"slate-view-edit": "编",
+	"slate-view-history": "望页史",
+	"slate-view-view": "读",
+	"slate-view-viewsource": "望源码"
 }

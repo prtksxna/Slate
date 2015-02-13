@@ -5,17 +5,17 @@
 			"C.R."
 		]
 	},
-	"vector-skin-desc": "Verziona muderna 'e MonoBook cu n'aspetto nuovo nuovo e tante migliuramente d'uso",
-	"vector-action-addsection": "Aggiunge chiacchierata",
-	"vector-action-delete": "Scancèlla",
-	"vector-action-move": "Spusta",
-	"vector-action-protect": "Prutegge",
-	"vector-action-undelete": "Arrepiglia",
-	"vector-action-unprotect": "Càgna prutezzione",
-	"vector-view-create": "Cria",
-	"vector-view-edit": "Càgna",
-	"vector-view-history": "Vere cronologgia",
-	"vector-view-view": "Liegge",
-	"vector-view-viewsource": "Vere sorgente",
-	"vector-more-actions": "Cchiù"
+	"slate-skin-desc": "Verziona muderna 'e MonoBook cu n'aspetto nuovo nuovo e tante migliuramente d'uso",
+	"slate-action-addsection": "Aggiunge chiacchierata",
+	"slate-action-delete": "Scancèlla",
+	"slate-action-move": "Spusta",
+	"slate-action-protect": "Prutegge",
+	"slate-action-undelete": "Arrepiglia",
+	"slate-action-unprotect": "Càgna prutezzione",
+	"slate-view-create": "Cria",
+	"slate-view-edit": "Càgna",
+	"slate-view-history": "Vere cronologgia",
+	"slate-view-view": "Liegge",
+	"slate-view-viewsource": "Vere sorgente",
+	"slate-more-actions": "Cchiù"
 }

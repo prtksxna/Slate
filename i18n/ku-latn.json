@@ -5,15 +5,15 @@
 			"Gomada"
 		]
 	},
-	"vector-action-addsection": "Mijarekê lê zêde bike",
-	"vector-action-delete": "Jê bibe",
-	"vector-action-move": "Nav biguherîne",
-	"vector-action-protect": "Biparêze",
-	"vector-action-undelete": "Jê nebe",
-	"vector-action-unprotect": "Parastinê rake",
-	"vector-view-create": "Çêke",
-	"vector-view-edit": "Biguherîne",
-	"vector-view-history": "Dîrokê bibîne",
-	"vector-view-view": "Bixwîne",
-	"vector-view-viewsource": "Çavkaniyan bibîne"
+	"slate-action-addsection": "Mijarekê lê zêde bike",
+	"slate-action-delete": "Jê bibe",
+	"slate-action-move": "Nav biguherîne",
+	"slate-action-protect": "Biparêze",
+	"slate-action-undelete": "Jê nebe",
+	"slate-action-unprotect": "Parastinê rake",
+	"slate-view-create": "Çêke",
+	"slate-view-edit": "Biguherîne",
+	"slate-view-history": "Dîrokê bibîne",
+	"slate-view-view": "Bixwîne",
+	"slate-view-viewsource": "Çavkaniyan bibîne"
 }

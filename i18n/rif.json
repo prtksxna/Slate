@@ -4,9 +4,9 @@
 			"MoubarikBelkasim"
 		]
 	},
-	"vector-action-move": "Smuṭṭi",
-	"vector-view-create": "Seɣnu",
-	"vector-view-edit": "Ẓṛeg",
-	"vector-view-history": "Ẓeṛ amezruy",
-	"vector-view-view": "Ɣeṛ"
+	"slate-action-move": "Smuṭṭi",
+	"slate-view-create": "Seɣnu",
+	"slate-view-edit": "Ẓṛeg",
+	"slate-view-history": "Ẓeṛ amezruy",
+	"slate-view-view": "Ɣeṛ"
 }

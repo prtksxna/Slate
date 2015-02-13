@@ -4,15 +4,15 @@
 			"Gott wisst"
 		]
 	},
-	"vector-action-addsection": "Besettan mearcunge",
-	"vector-action-delete": "Forlēosan",
-	"vector-action-move": "Wegan",
-	"vector-action-protect": "Beorgan",
-	"vector-action-undelete": "Scieppan tramet eft",
-	"vector-action-unprotect": "Andwendan beorgunge",
-	"vector-view-create": "Scieppan",
-	"vector-view-edit": "Adihtan",
-	"vector-view-history": "Stǣr",
-	"vector-view-view": "Rǣdan",
-	"vector-view-viewsource": "Sēon fruman"
+	"slate-action-addsection": "Besettan mearcunge",
+	"slate-action-delete": "Forlēosan",
+	"slate-action-move": "Wegan",
+	"slate-action-protect": "Beorgan",
+	"slate-action-undelete": "Scieppan tramet eft",
+	"slate-action-unprotect": "Andwendan beorgunge",
+	"slate-view-create": "Scieppan",
+	"slate-view-edit": "Adihtan",
+	"slate-view-history": "Stǣr",
+	"slate-view-view": "Rǣdan",
+	"slate-view-viewsource": "Sēon fruman"
 }

@@ -5,16 +5,16 @@
 			"Haqmar"
 		]
 	},
-	"skinname-vector": "Векторлы",
-	"vector-action-addsection": "Тема өҫтәргә",
-	"vector-action-delete": "Юйырға",
-	"vector-action-move": "Исемен үҙгәртергә",
-	"vector-action-protect": "Һаҡларға",
-	"vector-action-undelete": "Тергеҙергә",
-	"vector-action-unprotect": "Һаҡлауҙы үҙгәртергә",
-	"vector-view-create": "Яһау",
-	"vector-view-edit": "Үҙгәртергә",
-	"vector-view-history": "Тарихты ҡарау",
-	"vector-view-view": "Уҡыу",
-	"vector-view-viewsource": "Сығанаҡты ҡарарға"
+	"skinname-slate": "Векторлы",
+	"slate-action-addsection": "Тема өҫтәргә",
+	"slate-action-delete": "Юйырға",
+	"slate-action-move": "Исемен үҙгәртергә",
+	"slate-action-protect": "Һаҡларға",
+	"slate-action-undelete": "Тергеҙергә",
+	"slate-action-unprotect": "Һаҡлауҙы үҙгәртергә",
+	"slate-view-create": "Яһау",
+	"slate-view-edit": "Үҙгәртергә",
+	"slate-view-history": "Тарихты ҡарау",
+	"slate-view-view": "Уҡыу",
+	"slate-view-viewsource": "Сығанаҡты ҡарарға"
 }

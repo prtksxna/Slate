@@ -6,13 +6,13 @@
 			"Machirkholi"
 		]
 	},
-	"vector-action-addsection": "თემაშ მიშაძინა",
-	"vector-action-delete": "ლასუა",
-	"vector-action-move": "გინოღალა",
-	"vector-action-protect": "თხილუა",
-	"vector-view-create": "დორსხუაფა",
-	"vector-view-edit": "რედაქტირაფა",
-	"vector-view-history": "ისტორიაშ ძირაფა",
-	"vector-view-view": "კითხირი",
-	"vector-view-viewsource": "ქიძირე წყუ"
+	"slate-action-addsection": "თემაშ მიშაძინა",
+	"slate-action-delete": "ლასუა",
+	"slate-action-move": "გინოღალა",
+	"slate-action-protect": "თხილუა",
+	"slate-view-create": "დორსხუაფა",
+	"slate-view-edit": "რედაქტირაფა",
+	"slate-view-history": "ისტორიაშ ძირაფა",
+	"slate-view-view": "კითხირი",
+	"slate-view-viewsource": "ქიძირე წყუ"
 }

@@ -5,15 +5,15 @@
 			"Muddyb Blast Producer"
 		]
 	},
-	"vector-action-addsection": "Weka mada",
-	"vector-action-delete": "Futa",
-	"vector-action-move": "Hamisha",
-	"vector-action-protect": "Linda",
-	"vector-action-undelete": "Rudisha",
-	"vector-action-unprotect": "Badilisha ulinzi",
-	"vector-view-create": "Anzisha",
-	"vector-view-edit": "Hariri",
-	"vector-view-history": "Fungua historia",
-	"vector-view-view": "Soma",
-	"vector-view-viewsource": "Tazama msimbo"
+	"slate-action-addsection": "Weka mada",
+	"slate-action-delete": "Futa",
+	"slate-action-move": "Hamisha",
+	"slate-action-protect": "Linda",
+	"slate-action-undelete": "Rudisha",
+	"slate-action-unprotect": "Badilisha ulinzi",
+	"slate-view-create": "Anzisha",
+	"slate-view-edit": "Hariri",
+	"slate-view-history": "Fungua historia",
+	"slate-view-view": "Soma",
+	"slate-view-viewsource": "Tazama msimbo"
 }

@@ -4,10 +4,10 @@
 			"Temuri rajavi"
 		]
 	},
-	"vector-action-move": "Ахьӡ аҧсахра",
-	"vector-view-create": "Арҿиара",
-	"vector-view-edit": "Ариашамҭа",
-	"vector-view-history": "Аҭоурых",
-	"vector-view-view": "Аҧхьара",
-	"vector-view-viewsource": "Ахәаҧшра"
+	"slate-action-move": "Ахьӡ аҧсахра",
+	"slate-view-create": "Арҿиара",
+	"slate-view-edit": "Ариашамҭа",
+	"slate-view-history": "Аҭоурых",
+	"slate-view-view": "Аҧхьара",
+	"slate-view-viewsource": "Ахәаҧшра"
 }

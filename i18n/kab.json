@@ -4,15 +4,15 @@
 			"Mmistmurt"
 		]
 	},
-	"vector-action-addsection": "Rnud ameggay",
-	"vector-action-delete": "Mḥu",
-	"vector-action-move": "Smimeḍ",
-	"vector-action-protect": "Mmesten",
-	"vector-action-undelete": "Uɣaled",
-	"vector-action-unprotect": "Beddel amesten",
-	"vector-view-create": "Snulfu",
-	"vector-view-edit": "Ẓẓiẓreg",
-	"vector-view-history": "Ẓeṛ amazray",
-	"vector-view-view": "Ɣer",
-	"vector-view-viewsource": "Ẓer aɣbalu"
+	"slate-action-addsection": "Rnud ameggay",
+	"slate-action-delete": "Mḥu",
+	"slate-action-move": "Smimeḍ",
+	"slate-action-protect": "Mmesten",
+	"slate-action-undelete": "Uɣaled",
+	"slate-action-unprotect": "Beddel amesten",
+	"slate-view-create": "Snulfu",
+	"slate-view-edit": "Ẓẓiẓreg",
+	"slate-view-history": "Ẓeṛ amazray",
+	"slate-view-view": "Ɣer",
+	"slate-view-viewsource": "Ẓer aɣbalu"
 }

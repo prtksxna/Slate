@@ -5,18 +5,18 @@
 			"Sky Harbor"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector.css": "/* Ang inilagay na CSS dito ay makakaapekto sa mga tagagamit ng pabalat na Vector */",
-	"vector.js": "/* Ang anumang JavaScript dito ay ikakarga para sa mga tagagamit na gumagamit ng pabalat na Vector */",
-	"vector-action-addsection": "Magdagdag ng paksa",
-	"vector-action-delete": "Burahin",
-	"vector-action-move": "Ilipat",
-	"vector-action-protect": "Ipagsanggalang",
-	"vector-action-undelete": "Alisin ang pagbubura",
-	"vector-action-unprotect": "Baguhin ang pagsasanggalang",
-	"vector-view-create": "Likhain",
-	"vector-view-edit": "Baguhin",
-	"vector-view-history": "Tingnan ang kasaysayan",
-	"vector-view-view": "Basahin",
-	"vector-view-viewsource": "Tingnan ang pinagmulan"
+	"skinname-slate": "Slate",
+	"slate.css": "/* Ang inilagay na CSS dito ay makakaapekto sa mga tagagamit ng pabalat na Slate */",
+	"slate.js": "/* Ang anumang JavaScript dito ay ikakarga para sa mga tagagamit na gumagamit ng pabalat na Slate */",
+	"slate-action-addsection": "Magdagdag ng paksa",
+	"slate-action-delete": "Burahin",
+	"slate-action-move": "Ilipat",
+	"slate-action-protect": "Ipagsanggalang",
+	"slate-action-undelete": "Alisin ang pagbubura",
+	"slate-action-unprotect": "Baguhin ang pagsasanggalang",
+	"slate-view-create": "Likhain",
+	"slate-view-edit": "Baguhin",
+	"slate-view-history": "Tingnan ang kasaysayan",
+	"slate-view-view": "Basahin",
+	"slate-view-viewsource": "Tingnan ang pinagmulan"
 }

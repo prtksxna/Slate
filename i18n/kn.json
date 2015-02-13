@@ -6,15 +6,15 @@
 			"VASANTH S.N."
 		]
 	},
-	"vector-action-addsection": "ವಿಷಯ ಸೇರಿಸಿ",
-	"vector-action-delete": "ಅಳಿಸು",
-	"vector-action-move": "ಸ್ಥಳಾಂತರಿಸಿ",
-	"vector-action-protect": "ಸಂರಕ್ಷಿಸು",
-	"vector-action-undelete": "ಅಳಿಸಬೇಡ",
-	"vector-action-unprotect": "ರಕ್ಷಣೆಯನ್ನು ಬದಲಾವಣೆ",
-	"vector-view-create": "ಸೃಷ್ಟಿಸು",
-	"vector-view-edit": "ಸಂಪಾದಿಸಿ",
-	"vector-view-history": "ಇತಿಹಾಸವನ್ನು ನೋಡಿ",
-	"vector-view-view": "ಓದು",
-	"vector-view-viewsource": "ಆಕರ ವೀಕ್ಷಿಸು"
+	"slate-action-addsection": "ವಿಷಯ ಸೇರಿಸಿ",
+	"slate-action-delete": "ಅಳಿಸು",
+	"slate-action-move": "ಸ್ಥಳಾಂತರಿಸಿ",
+	"slate-action-protect": "ಸಂರಕ್ಷಿಸು",
+	"slate-action-undelete": "ಅಳಿಸಬೇಡ",
+	"slate-action-unprotect": "ರಕ್ಷಣೆಯನ್ನು ಬದಲಾವಣೆ",
+	"slate-view-create": "ಸೃಷ್ಟಿಸು",
+	"slate-view-edit": "ಸಂಪಾದಿಸಿ",
+	"slate-view-history": "ಇತಿಹಾಸವನ್ನು ನೋಡಿ",
+	"slate-view-view": "ಓದು",
+	"slate-view-viewsource": "ಆಕರ ವೀಕ್ಷಿಸು"
 }

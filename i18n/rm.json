@@ -4,15 +4,15 @@
 			"Gion-andri"
 		]
 	},
-	"vector-action-addsection": "Agiuntar chapitel",
-	"vector-action-delete": "Stizzar",
-	"vector-action-move": "Spustar",
-	"vector-action-protect": "Bloccar",
-	"vector-action-undelete": "Restituir",
-	"vector-action-unprotect": "Midar la protecziun",
-	"vector-view-create": "Crear",
-	"vector-view-edit": "Modifitgar",
-	"vector-view-history": "Cronologia",
-	"vector-view-view": "Leger",
-	"vector-view-viewsource": "Mussar il code"
+	"slate-action-addsection": "Agiuntar chapitel",
+	"slate-action-delete": "Stizzar",
+	"slate-action-move": "Spustar",
+	"slate-action-protect": "Bloccar",
+	"slate-action-undelete": "Restituir",
+	"slate-action-unprotect": "Midar la protecziun",
+	"slate-view-create": "Crear",
+	"slate-view-edit": "Modifitgar",
+	"slate-view-history": "Cronologia",
+	"slate-view-view": "Leger",
+	"slate-view-viewsource": "Mussar il code"
 }

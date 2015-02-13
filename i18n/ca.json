@@ -11,18 +11,18 @@
 			"Fitoschido"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
-	"vector-action-addsection": "Secció nova",
-	"vector-action-delete": "Esborra",
-	"vector-action-move": "Reanomena",
-	"vector-action-protect": "Protegeix",
-	"vector-action-undelete": "Restaura",
-	"vector-action-unprotect": "Desprotegeix",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Modifica",
-	"vector-view-history": "Mostra l'historial",
-	"vector-view-view": "Mostra",
-	"vector-view-viewsource": "Mostra el codi",
-	"vector-more-actions": "Més"
+	"skinname-slate": "Slate",
+	"slate-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
+	"slate-action-addsection": "Secció nova",
+	"slate-action-delete": "Esborra",
+	"slate-action-move": "Reanomena",
+	"slate-action-protect": "Protegeix",
+	"slate-action-undelete": "Restaura",
+	"slate-action-unprotect": "Desprotegeix",
+	"slate-view-create": "Crea",
+	"slate-view-edit": "Modifica",
+	"slate-view-history": "Mostra l'historial",
+	"slate-view-view": "Mostra",
+	"slate-view-viewsource": "Mostra el codi",
+	"slate-more-actions": "Més"
 }

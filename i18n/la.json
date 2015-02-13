@@ -4,16 +4,16 @@
 			"UV"
 		]
 	},
-	"vector-action-addsection": "Partem novam addere",
-	"vector-action-delete": "Delere",
-	"vector-action-move": "Movere",
-	"vector-action-protect": "Protegere",
-	"vector-action-undelete": "Restituere",
-	"vector-action-unprotect": "Protectionem mutare",
-	"vector-view-create": "Creare",
-	"vector-view-edit": "Recensere",
-	"vector-view-history": "Historiam inspicere",
-	"vector-view-view": "Legere",
-	"vector-view-viewsource": "Fontem inspicere",
-	"vector-more-actions": "Plus"
+	"slate-action-addsection": "Partem novam addere",
+	"slate-action-delete": "Delere",
+	"slate-action-move": "Movere",
+	"slate-action-protect": "Protegere",
+	"slate-action-undelete": "Restituere",
+	"slate-action-unprotect": "Protectionem mutare",
+	"slate-view-create": "Creare",
+	"slate-view-edit": "Recensere",
+	"slate-view-history": "Historiam inspicere",
+	"slate-view-view": "Legere",
+	"slate-view-viewsource": "Fontem inspicere",
+	"slate-more-actions": "Plus"
 }

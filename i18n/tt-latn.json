@@ -4,16 +4,16 @@
 			"Don Alessandro"
 		]
 	},
-	"skinname-vector": "Sızımlı",
-	"vector-action-addsection": "Yaña tema östäw",
-	"vector-action-delete": "Beterü",
-	"vector-action-move": "Küçerü",
-	"vector-action-protect": "Yaqlaw",
-	"vector-action-undelete": "Qaytaru",
-	"vector-action-unprotect": "Yaqlawnı beterü",
-	"vector-view-create": "Tözü",
-	"vector-view-edit": "Üzgärtü",
-	"vector-view-history": "Tarixın qaraw",
-	"vector-view-view": "Uqu",
-	"vector-view-viewsource": "Çığanağın qaraw"
+	"skinname-slate": "Sızımlı",
+	"slate-action-addsection": "Yaña tema östäw",
+	"slate-action-delete": "Beterü",
+	"slate-action-move": "Küçerü",
+	"slate-action-protect": "Yaqlaw",
+	"slate-action-undelete": "Qaytaru",
+	"slate-action-unprotect": "Yaqlawnı beterü",
+	"slate-view-create": "Tözü",
+	"slate-view-edit": "Üzgärtü",
+	"slate-view-history": "Tarixın qaraw",
+	"slate-view-view": "Uqu",
+	"slate-view-viewsource": "Çığanağın qaraw"
 }

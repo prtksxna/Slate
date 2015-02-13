@@ -4,15 +4,15 @@
 			"Anjoeli9806"
 		]
 	},
-	"vector-action-addsection": "Magdugang sang topiko",
-	"vector-action-delete": "Panason",
-	"vector-action-move": "Saylohon",
-	"vector-action-protect": "Pangapinan",
-	"vector-action-undelete": "Dulaon ang pagpanas",
-	"vector-action-unprotect": "Ilisan ang pagpangapin",
-	"vector-view-create": "Himuon",
-	"vector-view-edit": "Ilisan",
-	"vector-view-history": "Lantawon ang kasaysayan",
-	"vector-view-view": "Magbasa",
-	"vector-view-viewsource": "Lantawon ang ginhalinan"
+	"slate-action-addsection": "Magdugang sang topiko",
+	"slate-action-delete": "Panason",
+	"slate-action-move": "Saylohon",
+	"slate-action-protect": "Pangapinan",
+	"slate-action-undelete": "Dulaon ang pagpanas",
+	"slate-action-unprotect": "Ilisan ang pagpangapin",
+	"slate-view-create": "Himuon",
+	"slate-view-edit": "Ilisan",
+	"slate-view-history": "Lantawon ang kasaysayan",
+	"slate-view-view": "Magbasa",
+	"slate-view-viewsource": "Lantawon ang ginhalinan"
 }

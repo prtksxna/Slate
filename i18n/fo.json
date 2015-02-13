@@ -5,16 +5,16 @@
 			"EileenSanda"
 		]
 	},
-	"vector-action-addsection": "Nýtt evni",
-	"vector-action-delete": "Strika",
-	"vector-action-move": "Flyt",
-	"vector-action-protect": "Friða",
-	"vector-action-undelete": "Endurstovna",
-	"vector-action-unprotect": "Broyt verju",
-	"vector-view-create": "Stovna",
-	"vector-view-edit": "Rætta",
-	"vector-view-history": "Vís søgu",
-	"vector-view-view": "Les",
-	"vector-view-viewsource": "Vís keldu",
-	"vector-more-actions": "Meira"
+	"slate-action-addsection": "Nýtt evni",
+	"slate-action-delete": "Strika",
+	"slate-action-move": "Flyt",
+	"slate-action-protect": "Friða",
+	"slate-action-undelete": "Endurstovna",
+	"slate-action-unprotect": "Broyt verju",
+	"slate-view-create": "Stovna",
+	"slate-view-edit": "Rætta",
+	"slate-view-history": "Vís søgu",
+	"slate-view-view": "Les",
+	"slate-view-viewsource": "Vís keldu",
+	"slate-more-actions": "Meira"
 }

@@ -1,6 +1,6 @@
 <?php
 /**
- * Vector - Modern version of MonoBook with fresh look and many usability
+ * Slate - Modern version of MonoBook with fresh look and many usability
  * improvements.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -24,24 +24,24 @@
 
 $GLOBALS['wgExtensionCredits']['skin'][] = array(
 	'path' => __FILE__,
-	'name' => 'Vector',
-	'namemsg' => 'skinname-vector',
-	'descriptionmsg' => 'vector-skin-desc',
-	'url' => 'https://www.mediawiki.org/wiki/Skin:Vector',
+	'name' => 'Slate',
+	'namemsg' => 'skinname-slate',
+	'descriptionmsg' => 'slate-skin-desc',
+	'url' => 'https://www.mediawiki.org/wiki/Skin:Slate',
 	'author' => array( 'Trevor Parscal', 'Roan Kattouw', '...' ),
 	'license-name' => 'GPL-2.0+',
 );
 
 // Register files
-$GLOBALS['wgAutoloadClasses']['SkinVector'] = __DIR__ . '/SkinVector.php';
-$GLOBALS['wgAutoloadClasses']['VectorTemplate'] = __DIR__ . '/VectorTemplate.php';
-$GLOBALS['wgMessagesDirs']['Vector'] = __DIR__ . '/i18n';
+$GLOBALS['wgAutoloadClasses']['SkinSlate'] = __DIR__ . '/SkinSlate.php';
+$GLOBALS['wgAutoloadClasses']['SlateTemplate'] = __DIR__ . '/SlateTemplate.php';
+$GLOBALS['wgMessagesDirs']['Slate'] = __DIR__ . '/i18n';
 
 // Register skin
-$GLOBALS['wgValidSkinNames']['vector'] = 'Vector';
+$GLOBALS['wgValidSkinNames']['slate'] = 'Slate';
 
 // Register config
-$GLOBALS['wgConfigRegistry']['vector'] = 'GlobalVarConfig::newInstance';
+$GLOBALS['wgConfigRegistry']['slate'] = 'GlobalVarConfig::newInstance';
 
 // Configuration options
 /**
@@ -49,41 +49,41 @@ $GLOBALS['wgConfigRegistry']['vector'] = 'GlobalVarConfig::newInstance';
  *  - true = use an icon search button
  *  - false = use Go & Search buttons
  */
-$GLOBALS['wgVectorUseSimpleSearch'] = true;
+$GLOBALS['wgSlateUseSimpleSearch'] = true;
 
 /**
  * Watch and unwatch as an icon rather than a link.
  *  - true = use an icon watch/unwatch button
  *  - false = use watch/unwatch text link
  */
-$GLOBALS['wgVectorUseIconWatch'] = true;
+$GLOBALS['wgSlateUseIconWatch'] = true;
 
 // Register modules
-$GLOBALS['wgResourceModules']['skins.vector.styles'] = array(
+$GLOBALS['wgResourceModules']['skins.slate.styles'] = array(
 	'styles' => array(
 		'screen.less' => array( 'media' => 'screen' ),
 		'screen-hd.less' => array( 'media' => 'screen and (min-width: 982px)' ),
 	),
-	'remoteSkinPath' => 'Vector',
+	'remoteSkinPath' => 'Slate',
 	'localBasePath' => __DIR__,
 );
 
-$GLOBALS['wgResourceModules']['skins.vector.js'] = array(
+$GLOBALS['wgResourceModules']['skins.slate.js'] = array(
 	'scripts' => array(
 		'collapsibleTabs.js',
-		'vector.js',
+		'slate.js',
 	),
 	'position' => 'top',
 	'dependencies' => array(
 		'jquery.throttle-debounce',
 		'jquery.tabIndex',
 	),
-	'remoteSkinPath' => 'Vector',
+	'remoteSkinPath' => 'Slate',
 	'localBasePath' => __DIR__,
 );
 
 // Apply module customizations
-$GLOBALS['wgResourceModuleSkinStyles']['vector'] = array(
+$GLOBALS['wgResourceModuleSkinStyles']['slate'] = array(
 	'jquery.tipsy' => 'skinStyles/jquery.tipsy.less',
 	'jquery.ui.core' => array(
 		'skinStyles/jquery.ui/jquery.ui.core.css',
@@ -105,6 +105,6 @@ $GLOBALS['wgResourceModuleSkinStyles']['vector'] = array(
 	'mediawiki.notification' => 'skinStyles/mediawiki.notification.less',
 	'mediawiki.special' => 'skinStyles/mediawiki.special.less',
 	'mediawiki.special.preferences' => 'skinStyles/mediawiki.special.preferences.less',
-	'remoteSkinPath' => 'Vector',
+	'remoteSkinPath' => 'Slate',
 	'localBasePath' => __DIR__,
 );

@@ -4,11 +4,11 @@
 			"Xqt"
 		]
 	},
-	"vector-action-delete": "Verwische",
-	"vector-action-move": "Ziehe",
-	"vector-action-protect": "Schitze",
-	"vector-view-create": "Schtaerte",
-	"vector-view-edit": "Ennere",
-	"vector-view-history": "Gschicht zeige",
-	"vector-view-view": "Lese"
+	"slate-action-delete": "Verwische",
+	"slate-action-move": "Ziehe",
+	"slate-action-protect": "Schitze",
+	"slate-view-create": "Schtaerte",
+	"slate-view-edit": "Ennere",
+	"slate-view-history": "Gschicht zeige",
+	"slate-view-view": "Lese"
 }

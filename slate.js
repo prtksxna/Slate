@@ -1,5 +1,5 @@
 /**
- * Vector-specific scripts
+ * Slate-specific scripts
  */
 jQuery( function ( $ ) {
 	/**
@@ -10,7 +10,7 @@ jQuery( function ( $ ) {
 	/**
 	 * Dropdown menu accessibility
 	 */
-	$( 'div.vectorMenu' ).each( function () {
+	$( 'div.slateMenu' ).each( function () {
 		var $el = $( this );
 		$el.find( '> h3 > a' ).parent()
 			.attr( 'tabindex', '0' )
@@ -23,10 +23,10 @@ jQuery( function ( $ ) {
 			} )
 			// When the heading has focus, also set a class that will change the arrow icon
 			.focus( function () {
-				$el.find( '> a' ).addClass( 'vectorMenuFocus' );
+				$el.find( '> a' ).addClass( 'slateMenuFocus' );
 			} )
 			.blur( function () {
-				$el.find( '> a' ).removeClass( 'vectorMenuFocus' );
+				$el.find( '> a' ).removeClass( 'slateMenuFocus' );
 			} )
 			.find( '> a:first' )
 			// As the h3 can already be focused there's no need for the link to be focusable

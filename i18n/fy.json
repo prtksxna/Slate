@@ -6,15 +6,15 @@
 			"Robin0van0der0vliet"
 		]
 	},
-	"vector-action-delete": "Fuortsmite",
-	"vector-action-move": "Werneam",
-	"vector-action-protect": "Beskermje",
-	"vector-action-undelete": "Tebeksette",
-	"vector-action-unprotect": "Beskerming fuorthelje",
-	"vector-view-create": "Oanmeitsje",
-	"vector-view-edit": "Bewurkje",
-	"vector-view-history": "Skiednis sjen litte",
-	"vector-view-view": "Lês",
-	"vector-view-viewsource": "Besjoch de boarne",
-	"vector-more-actions": "Mear"
+	"slate-action-delete": "Fuortsmite",
+	"slate-action-move": "Werneam",
+	"slate-action-protect": "Beskermje",
+	"slate-action-undelete": "Tebeksette",
+	"slate-action-unprotect": "Beskerming fuorthelje",
+	"slate-view-create": "Oanmeitsje",
+	"slate-view-edit": "Bewurkje",
+	"slate-view-history": "Skiednis sjen litte",
+	"slate-view-view": "Lês",
+	"slate-view-viewsource": "Besjoch de boarne",
+	"slate-more-actions": "Mear"
 }
