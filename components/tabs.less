@@ -12,9 +12,6 @@ div.slateTabs {
 	/* @noflip */
 	float: left;
 	height: 2.5em;
-	.background-image('images/tab-break.png');
-	background-position: bottom left;
-	background-repeat: no-repeat;
 	padding-left: 1px;
 
 	ul {
@@ -25,9 +22,6 @@ div.slateTabs {
 		list-style-image: none;
 		margin: 0;
 		padding: 0;
-		.background-image('images/tab-break.png');
-		background-position: right bottom;
-		background-repeat: no-repeat;
 
 		li {
 			/* @noflip */
@@ -38,10 +32,6 @@ div.slateTabs {
 			height: 100%;
 			margin: 0;
 			padding: 0;
-			background-color: #f3f3f3;
-			.background-image('images/tab-normal-fade.png');
-			background-position: bottom left;
-			background-repeat: repeat-x;
 			white-space: nowrap;
 		}
 
@@ -60,7 +50,6 @@ div.slateTabs {
 		}
 
 		&.selected {
-			.background-image('images/tab-current-fade.png');
 			a,
 			a:visited{
 				color: #333;
@@ -94,9 +83,6 @@ div.slateTabs {
 
 	span {
 		display: inline-block;
-		.background-image('images/tab-break.png');
-		background-position: bottom right;
-		background-repeat: no-repeat;
 
 		a  {
 			/* For IE6, overridden later to display:block by modern browsers */
